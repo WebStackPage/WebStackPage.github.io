@@ -48,7 +48,7 @@
                     <!-- add class "multiple-expanded" to allow multiple submenus to open -->
                     <!-- class "auto-inherit-active-class" will automatically add "active" class for parent elements who are marked already with class "active" -->
                     <li>
-                        <a href="#DesignStackTag">
+                        <a href="#项目1" class="smooth">
                             <i class="linecons-cog"></i>
                             <span class="title">Chiness</span>
                         </a>
@@ -60,8 +60,8 @@
                             </li>
                             <li>
                                 <a href="#项目2" class="smooth">
-                                    <span class="title smooth">Update Highlights</span>
-                                    <span class="label label-pink pull-right hidden-collapsed">v1.3</span>
+                                    <span class="title">Update Highlights</span>
+                                    <span class="label label-pink pull-right hidden-collapsed">Hot</span>
                                 </a>
                             </li>
                         </ul>
@@ -77,17 +77,37 @@
                                     <span class="title">Layout Variants &amp; API</span>
                                 </a>
                             </li>
+                            <li>
+                                <a href="#DesignStackTag">
+                                    <span class="title">Layout Variants2 &amp; API</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#DesignStackTag">
+                                    <span class="title">Layout Variants3 &amp; API</span>
+                                </a>
+                            </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#DesignStackTag">
+                        <a href="#项目4">
                             <i class="linecons-note"></i>
                             <span class="title">UI Elements</span>
                         </a>
                         <ul>
                             <li>
-                                <a href="#DesignStackTag">
+                                <a href="#项目4"  class="smooth">
                                     <span class="title">Other Elements</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#DesignStackTag">
+                                    <span class="title">Layout Variants5 &amp; API</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#DesignStackTag">
+                                    <span class="title">Layout Variants6 &amp; API</span>
                                 </a>
                             </li>
                         </ul>
@@ -781,29 +801,33 @@
     </div>
     <!-- 锚点平滑移动 -->
     <script type="text/javascript">
-    $(document).ready(function() {
-        $("a.smooth").click(function() {
-            $("html, body").animate({
-                scrollTop: $($(this).attr("href")).offset().top + "px"
-            }, {
-                duration: 500,
-                easing: "swing"
-            });
-            return false;
+    // $(document).ready(function() {
+    //     $("#main-menu li ul li").click(function() {
+    //         $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
+    //         $(this).addClass('active'); // 添加当前元素的样式
+    //     });
+    //     $("a.smooth").click(function() {
+    //         $("html, body").animate({
+    //             scrollTop: $($(this).attr("href")).offset().top - 30
+    //         }, {
+    //             duration: 500,
+    //             easing: "swing"
+    //         });
+    //     });
+    //        return false;
+    // });
+
+    var href = "";
+    var pos = 0;
+    $("a.smooth").click(function(e) {
+        $("#main-menu li").each(function() {
+            $(this).removeClass("active");
         });
-        // 给点击元素添加active类
-        $("smooth").click(function(e) {
-            $("smooth").each(function() {
-                $(this).removeClass("active");
-            });
-            $(this).parent("a").addClass("active");
-            e.preventDefault();
-            href = $(this).attr("href");
-            pos = $(href).position().top - 30;
-            $("html,body").animate({
-                scrollTop: pos
-            }, 500);
-        });
+        $(this).parent("li").addClass("active");
+        e.preventDefault();
+        href = $(this).attr("href");
+        pos = $(href).position().top - 30;
+        $("html,body").animate({ scrollTop: pos }, 500);
     });
     </script>
     <!-- Bottom Scripts -->
