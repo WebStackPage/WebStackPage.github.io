@@ -1,0 +1,248 @@
+@media screen and (max-width: @screen-sm){
+	
+	body.chat-open .settings-pane {
+		left: -@chat-converation-width;
+	}
+}
+
+.settings-pane {
+	background: @main-active-color;
+	color: @main-text-active-color;
+	display: none;
+	position: relative;
+	overflow: hidden;
+	.perspective(500px);
+	.transform-origin(center bottom);
+	
+	@media screen and (max-width: @screen-sm){
+		padding: @default-padding;
+	}
+	
+	// Animation Part
+	.settings-pane-inner {
+		position: relative;
+		padding: 50px;
+		
+		@media screen and (max-width: @screen-sm){
+			padding: 0;
+		}
+		
+		&.with-animation {
+			//.transform(~"translate3d(0px,100px,-200px)");
+			.opacity(0);
+			
+			.transition(~"all 350ms cubic-bezier(0.785, 0.135, 0.150, 0.860)");
+		
+			&.visible {
+				//.transform(~"translate3d(0px,0px,0px)");
+				.opacity(1);
+				.transition-delay(200ms);
+			}
+			
+			&.closing {
+				.opacity(0);
+				.transition-delay(0ms);
+			}
+		}
+	}
+	
+	> a[data-toggle="settings-pane"] {
+		display: block;
+		color: @main-text-color;
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: 10px 12px;
+		font-size: 18px;
+		line-height: 1;
+		z-index: 100;
+		
+		&:hover {
+			color: #FFF;
+		}
+	}
+	
+	
+	.user-info {
+		display: table;
+		width: 100%;
+		border-spacing: 0;
+		border-collapse: collapse;
+		
+		@media screen and (min-width: @screen-sm) and (max-width: @screen-md){
+			width: auto;
+			margin: 0 auto;
+			margin-bottom: @base-margin;
+		}
+		
+		@media screen and (max-width: @screen-sm){
+			width: auto;
+			margin: 0 auto;
+			margin-bottom: @base-margin;
+		}
+		
+		.user-image,
+		.user-details {
+			display: table-cell;
+			vertical-align: middle;
+		}
+		
+		.user-image {
+			width: 130px;
+			
+			a {
+				display: block;
+				position: relative;
+				
+				img {
+				}
+			}
+		}
+		
+		.user-details {
+			padding-left: @base-margin;
+			
+			h3 {
+				margin: 0;
+
+				a {
+					color: @main-text-active-color;
+				}
+				
+				.user-status {
+					position: relative;
+					display: inline-block;
+					background: #FFF;
+					top: -3px;
+					margin-left: @base-padding/2;
+					.size(8px);
+					.border-radius(50%);
+					
+					&.is-online { background-color: @brand-success; }
+					&.is-idle { background-color: @brand-warning; }
+					&.is-busy { background-color: @xe-red; }
+					&.is-offline { background-color: #CCC; }
+				}
+			}
+			
+			.user-title {
+				color: fade(@main-text-active-color, 65%);
+				margin: 0;
+				margin-top: @base-padding/2;
+			}
+			
+			.user-links {
+				margin-top: @default-padding/2;
+				
+				a {
+					display: inline-block;
+					
+					+ a {
+						margin-left: @base-padding - 2;
+					}
+				}
+			}
+		}
+	}
+	
+	.links-block {
+		display: inline-block;
+		padding-right: 85px;
+		text-align: left;
+		
+		@media screen and (max-width: @screen-sm-max){
+			padding-right: 40px;
+			margin-top: @base-padding;
+		}
+		
+		&.left-sep {
+			border-left: 1px solid @main-border-color;
+			padding-left: 75px;
+			
+			@media screen and (max-width: @screen-sm-max){
+				padding-left: 40px;
+				
+				&:first-child {
+					border-left: 0;
+				}
+			}
+			
+			@media screen and (max-width: 599px){
+				padding: 0 25px;
+			}
+		}
+		
+		h4 {
+			color: @main-text-active-color;
+			margin: 0;
+			margin-bottom: @base-padding + 5;
+			
+			span {
+				display: inline-block;
+				border-bottom: 1px solid @main-border-color;
+				padding-bottom: @base-padding/2;
+			}
+			
+			a {
+				color: @main-text-active-color;
+				
+				&:hover {
+					color: @main-text-color;
+				}
+			}
+		}
+		
+		
+		ul {
+			
+			li {
+				
+				label {
+					display: inline-block;
+					padding-left: @base-padding/2;
+					.user-select(none);
+				}
+				
+				a {
+					color: @main-text-color;
+					display: block;
+					
+					&:hover {
+						color: @main-text-active-color;
+					}
+				}
+				
+				+ li a {
+					margin-top: @base-padding/2;
+				}
+			}
+		}
+	}
+	
+	.link-blocks-env {
+		text-align: center;
+	}
+}
+
+// When settings pane is open
+.settings-pane-open {
+	
+	.settings-pane {
+		display: block;
+	}
+	
+	.sidebar-menu {
+		
+		.sidebar-menu-inner {
+			position: relative !important;
+			
+			.logo-env {
+				
+				.settings-icon {
+					background: @main-active-color;
+					.box-shadow(~"0px 0px 0px 10px @{main-active-color}, 0px -10px 0px 10px @{main-active-color}, 0px -20px 0px 10px @{main-active-color}, 0px -30px 0px 10px @{main-active-color}");
+				}
+			}
+		}
+	}
+}

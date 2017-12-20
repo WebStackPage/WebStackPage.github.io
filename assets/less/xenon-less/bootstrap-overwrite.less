@@ -1,0 +1,300 @@
+// Links
+a {
+	
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+label {
+	font-weight: normal;
+}
+
+.label {
+	.border-radius(0);
+}
+
+
+// Dropdowns
+.dropdown-menu {
+	.box-shadow(none);
+	
+	> li {
+		
+		> a {
+			padding: 5px @base-margin;
+			
+			> i {
+				display: inline-block;
+				margin-right: @base-padding / 2;
+			}
+		}
+	}
+}
+
+.left-dropdown {
+	
+	.btn {
+		float: right;
+		
+		&.dropdown-toggle {
+			float: left;
+		}
+	}
+}
+
+
+// Forms
+.form-control {
+	.box-shadow(none);
+	
+	&:focus, &:active {
+		outline: none;
+		.box-shadow(none);
+	}
+}
+
+
+
+// Headings
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	font-weight: normal;
+}
+
+
+// Button Groups
+.btn-group {
+	
+	+ .btn-group {
+		margin-left: @base-padding/2;
+	}
+}
+
+
+// Alerts
+.alert {
+	
+	&.alert-dismissable {
+		padding-right: 20px;
+		
+		.close {
+			right: -10px;
+			top: 0px;
+		}
+	}
+	
+	.close {
+		position: relative;
+		margin-top: -2px;
+		outline: 0;
+		color: #000;
+		
+		span {
+			text-shadow: none;
+		}
+	}
+
+	&.alert-default {
+	  .alert-variant(#eee; #eee; #333);
+	}
+	
+	&.alert-white {
+	  .alert-variant(#FFF; #eee; #333);
+	}
+	
+	&.alert-black {
+	  .alert-variant(#000; #000; #FFF);
+	  
+	  .close {
+		  .opacity(.5);
+		  
+		  span {
+			  color: #FFF;
+		  }
+		  
+		  &:hover {
+			  .opacity(.9);
+		  }
+	  }
+	}
+}
+
+
+// Progressbar
+.progress {
+	height: 6px;
+	.box-shadow(none);
+	
+	&.progress-bar-purple > .progress-bar { .progress-bar-variant(@xe-purple); }
+	&.progress-bar-blue > .progress-bar { .progress-bar-variant(@xe-blue); }
+	&.progress-bar-red > .progress-bar { .progress-bar-variant(@xe-red); }
+	&.progress-bar-black > .progress-bar { .progress-bar-variant(@xe-black); }
+	&.progress-bar-gray > .progress-bar { .progress-bar-variant(#ccc); }
+	
+	.progress-bar {
+		.box-shadow(none);
+		
+		&.progress-bar-purple { .progress-bar-variant(@xe-purple); }
+		&.progress-bar-blue { .progress-bar-variant(@xe-blue); }
+		&.progress-bar-red { .progress-bar-variant(@xe-red); }
+		&.progress-bar-black { .progress-bar-variant(@xe-black); }
+		&.progress-bar-gray { .progress-bar-variant(#ccc); }
+	}
+}
+
+
+// List Groups
+.list-group {
+	
+	.list-group-item {
+		padding: @base-padding+5 @base-margin;
+		
+		.list-group-item-heading {
+		}
+		
+		.list-group-item-text {
+			margin-top: @base-padding;
+		}
+	}
+	
+	&.list-group-minimal {
+		
+		.list-group-item {
+			padding: @base-padding @base-padding+5;
+		}
+	}
+}
+
+
+// Roundless Badges
+.badge-roundless {
+	.border-radius(0);
+}
+
+
+// Mark
+mark,
+.mark {
+	background-color: fade(@brand-warning, 50%);
+	color: #666;
+	padding-left: @base-padding/2;
+	padding-right: @base-padding/2;
+}
+
+
+
+// Contextual colors
+.text-muted {
+	color: @text-muted;
+}
+
+.text-primary {
+	.text-emphasis-variant(@brand-primary);
+}
+
+.text-secondary {
+	.text-emphasis-variant(@secondary-color);
+}
+
+.text-purple {
+	.text-emphasis-variant(@xe-purple);
+}
+
+.text-turquoise {
+	.text-emphasis-variant(@xe-turquoise);
+}
+
+.text-red {
+	.text-emphasis-variant(@xe-red);
+}
+
+.text-blue {
+	.text-emphasis-variant(@xe-blue);
+}
+
+.text-pink {
+	.text-emphasis-variant(@xe-pink);
+}
+
+.text-yellow {
+	.text-emphasis-variant(@xe-yellow);
+}
+
+.text-gray {
+	.text-emphasis-variant(#555);
+}
+
+.text-success {
+	.text-emphasis-variant(@brand-success);
+}
+
+.text-info {
+	.text-emphasis-variant(@brand-info);
+}
+
+.text-warning {
+	.text-emphasis-variant(@brand-warning);
+}
+
+.text-danger {
+	.text-emphasis-variant(@brand-danger);
+}
+
+.text-white {
+	.text-emphasis-variant(#fff);
+}
+
+
+// Contextual backgrounds
+.bg-muted,
+.bg-gray,
+.bg-primary,
+.bg-success,
+.bg-info,
+.bg-warning,
+.bg-danger {
+	padding: @base-padding @base-padding+5;
+	color: #fff;
+}
+
+.bg-muted {
+	background-color: lighten(@gray-light, 35%);
+}
+
+.bg-gray {
+	background-color: @xe-gray;
+}
+
+
+pre {
+	white-space: pre-wrap;
+	font-size: @font-size-small;
+}
+
+
+
+.page-body {
+
+	.jumbotron {
+		padding: 0;
+		padding-top: 0 !important;
+		padding-bottom: (@jumbotron-padding * 1.6);
+		margin-bottom: @base-margin;
+		
+		> h1 {
+			margin-top: 0;
+			margin-bottom: @base-margin;
+		}
+		
+		@media screen and (max-width: @screen-sm-min) {
+			padding-left: 0;
+			padding-right: 0;
+		}
+		
+		@media screen and (min-width: @screen-sm-min) {
+			padding-top:    (@jumbotron-padding * 0.5);
+		    padding-bottom: (@jumbotron-padding * 1.6);
+	    }
+	}
+}

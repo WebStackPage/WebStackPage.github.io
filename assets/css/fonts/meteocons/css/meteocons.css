@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'meteocons';
+  src: url('../font/meteocons.eot?24967826');
+  src: url('../font/meteocons.eot?24967826#iefix') format('embedded-opentype'),
+       url('../font/meteocons.woff?24967826') format('woff'),
+       url('../font/meteocons.ttf?24967826') format('truetype'),
+       url('../font/meteocons.svg?24967826#meteocons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'meteocons';
+    src: url('../font/meteocons.svg?24967826#meteocons') format('svg');
+  }
+}
+*/
+ 
+ [class^="meteocons-"]:before, [class*=" meteocons-"]:before {
+  font-family: "meteocons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.meteocons-windy-rain-inv:before { content: '\e800'; } /* '' */
+.meteocons-snow-inv:before { content: '\e801'; } /* '' */
+.meteocons-snow-heavy-inv:before { content: '\e802'; } /* '' */
+.meteocons-hail-inv:before { content: '\e803'; } /* '' */
+.meteocons-clouds-inv:before { content: '\e804'; } /* '' */
+.meteocons-clouds-flash-inv:before { content: '\e805'; } /* '' */
+.meteocons-temperature:before { content: '\e806'; } /* '' */
+.meteocons-compass:before { content: '\e807'; } /* '' */
+.meteocons-na:before { content: '\e808'; } /* '' */
+.meteocons-celcius:before { content: '\e809'; } /* '' */
+.meteocons-fahrenheit:before { content: '\e80a'; } /* '' */
+.meteocons-clouds-flash-alt:before { content: '\e80b'; } /* '' */
+.meteocons-sun-inv:before { content: '\e80c'; } /* '' */
+.meteocons-moon-inv:before { content: '\e80d'; } /* '' */
+.meteocons-cloud-sun-inv:before { content: '\e80e'; } /* '' */
+.meteocons-cloud-moon-inv:before { content: '\e80f'; } /* '' */
+.meteocons-cloud-inv:before { content: '\e810'; } /* '' */
+.meteocons-cloud-flash-inv:before { content: '\e811'; } /* '' */
+.meteocons-drizzle-inv:before { content: '\e812'; } /* '' */
+.meteocons-rain-inv:before { content: '\e813'; } /* '' */
+.meteocons-windy-inv:before { content: '\e814'; } /* '' */
+.meteocons-sunrise:before { content: '\e815'; } /* '' */
+.meteocons-sun:before { content: '\e816'; } /* '' */
+.meteocons-moon:before { content: '\e817'; } /* '' */
+.meteocons-eclipse:before { content: '\e818'; } /* '' */
+.meteocons-mist:before { content: '\e819'; } /* '' */
+.meteocons-wind:before { content: '\e81a'; } /* '' */
+.meteocons-snowflake:before { content: '\e81b'; } /* '' */
+.meteocons-cloud-sun:before { content: '\e81c'; } /* '' */
+.meteocons-cloud-moon:before { content: '\e81d'; } /* '' */
+.meteocons-fog-sun:before { content: '\e81e'; } /* '' */
+.meteocons-fog-moon:before { content: '\e81f'; } /* '' */
+.meteocons-fog-cloud:before { content: '\e820'; } /* '' */
+.meteocons-fog:before { content: '\e821'; } /* '' */
+.meteocons-cloud:before { content: '\e822'; } /* '' */
+.meteocons-cloud-flash:before { content: '\e823'; } /* '' */
+.meteocons-cloud-flash-alt:before { content: '\e824'; } /* '' */
+.meteocons-drizzle:before { content: '\e825'; } /* '' */
+.meteocons-rain:before { content: '\e826'; } /* '' */
+.meteocons-windy:before { content: '\e827'; } /* '' */
+.meteocons-windy-rain:before { content: '\e828'; } /* '' */
+.meteocons-snow:before { content: '\e829'; } /* '' */
+.meteocons-snow-alt:before { content: '\e82a'; } /* '' */
+.meteocons-snow-heavy:before { content: '\e82b'; } /* '' */
+.meteocons-hail:before { content: '\e82c'; } /* '' */
+.meteocons-clouds:before { content: '\e82d'; } /* '' */
+.meteocons-clouds-flash:before { content: '\e82e'; } /* '' */

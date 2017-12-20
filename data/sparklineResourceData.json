@@ -1,0 +1,14 @@
+﻿[
+	{ "month": 1, "alum2010": 2262, "alum2011": 2454, "alum2012": 2262, "nickel2010": 18974, "nickel2011": 24298, "nickel2012": 18322, "copper2010": 7341, "copper2011": 9585, "copper2012": 7501 },
+	{ "month": 2, "alum2010": 2087, "alum2011": 2537, "alum2012": 2087, "nickel2010": 18162, "nickel2011": 27929, "nickel2012": 21093, "copper2010": 7016, "copper2011": 10026, "copper2012": 8470 },
+	{ "month": 3, "alum2010": 2238, "alum2011": 2586, "alum2012": 2238, "nickel2010": 20535, "nickel2011": 28802, "nickel2012": 19701, "copper2010": 7202, "copper2011": 9889, "copper2012": 8591 },
+	{ "month": 4, "alum2010": 2349, "alum2011": 2689, "alum2012": 2349, "nickel2010": 24562, "nickel2011": 26142, "nickel2012": 17695, "copper2010": 7851, "copper2011": 9460, "copper2012": 8459 },
+	{ "month": 5, "alum2010": 2071, "alum2011": 2591, "alum2012": 2071, "nickel2010": 26131, "nickel2011": 26753, "nickel2012": 17549, "copper2010": 7481, "copper2011": 9373, "copper2012": 8320 },
+	{ "month": 6, "alum2010": 1957, "alum2011": 2584, "alum2012": 1957, "nickel2010": 19278, "nickel2011": 23055, "nickel2012": 16436, "copper2010": 6532, "copper2011": 9108, "copper2012": 7465 },
+	{ "month": 7, "alum2010": 2008, "alum2011": 2554, "alum2012": 2008, "nickel2010": 19475, "nickel2011": 22870, "nickel2012": 16382, "copper2010": 6498, "copper2011": 9295, "copper2012": 7475 },
+	{ "month": 8, "alum2010": 2119, "alum2011": 2413, "alum2012": 2119, "nickel2010": 20701, "nickel2011": 24388, "nickel2012": 15687, "copper2010": 7191, "copper2011": 9834, "copper2012": 7430 },
+	{ "month": 9, "alum2010": 2199, "alum2011": 2327, "alum2012": 2199, "nickel2010": 21266, "nickel2011": 21845, "nickel2012": 16085, "copper2010": 7596, "copper2011": 9121, "copper2012": 7614 },
+	{ "month": 10, "alum2010": 2374, "alum2011": 2210, "alum2012": 2374, "nickel2010": 23358, "nickel2011": 18346, "nickel2012": 18250, "copper2010": 8057, "copper2011": 7125, "copper2012": 8245 },
+	{ "month": 11, "alum2010": 2354, "alum2011": 2102, "alum2012": 2354, "nickel2010": 23150, "nickel2011": 18822, "nickel2012": 16083, "copper2010": 8373, "copper2011": 7871, "copper2012": 7727 },
+	{ "month": 12, "alum2010": 2369, "alum2011": 2038, "alum2012": 2369, "nickel2010": 23282, "nickel2011": 17320, "nickel2012": 17104, "copper2010": 8636, "copper2011": 7725, "copper2012": 7880 }
+]

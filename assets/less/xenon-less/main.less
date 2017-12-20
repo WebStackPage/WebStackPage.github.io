@@ -1,0 +1,157 @@
+body {
+	background-color: @background-color;
+}
+
+a {
+	outline: none !important;
+}
+
+p {
+	color: @main-text-color;
+}
+
+
+// Page Container
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.boxed-container {
+	background: #ccc;
+
+	#chat .chat-inner {
+		position: absolute !important;
+	}
+}
+
+.page-container {
+	display: table;
+	width: 100%;
+	height: 100%;
+	vertical-align: top;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	table-layout: fixed;
+
+	.boxed-container & {
+		max-width: @container-width;
+		margin: @base-margin auto;
+
+		@media screen and (max-width: @screen-sm) {
+			margin: 0;
+		}
+	}
+
+	&.container {
+		max-width: @container-width;
+		table-layout: auto;
+	}
+
+	.main-content {
+		display: table-cell;
+		position: relative;
+		z-index: 1;
+		padding: @main-content-padding;
+		padding-bottom: 0;
+		vertical-align: top;
+		word-break: break-word;
+		width: 100%; // may or may not work sometimes
+		.transition(~"opacity 100ms ease-in-out");
+
+		&.is-loading {
+			.opacity(.5);
+			.transition(~"opacity 300ms ease-in-out");
+		}
+
+		.boxed-container & {
+			background-color: @background-color;
+		}
+
+		&:hover {
+			z-index: 15;
+		}
+
+
+		// Page Title
+		.page-title {
+			background: #f8f8f8;
+			margin: -@default-padding;
+			margin-bottom: @default-padding;
+			padding: @base-margin 0;
+			.box-shadow(~"0 1px 0 rgba(0,1,1,.08), inset 0 1px 0 #ededed");
+			&:extend(.clearfix all);
+
+			@media screen and (max-width: @screen-sm){
+				padding: @default-padding/2 0;
+			}
+
+			&.full-width {
+
+				.title-env {
+					width: 100%;
+					padding-right: @default-padding;
+				}
+			}
+
+			.title-env,
+			.breadcrumb-env {
+				display: block;
+			}
+
+			.title-env {
+				float: left;
+				padding-left: @default-padding;
+
+				.title {
+					margin: 0;
+					font-size: @font-size-h2;
+
+					@media screen and (max-width: @screen-sm) {
+						font-size: @font-size-h3;
+
+						+ p {
+							font-size: @font-size-small;
+						}
+					}
+
+					@media screen and (max-width: @screen-xs) {
+						font-size: @font-size-h4 + 2;
+					}
+
+					+ p {
+						margin: 0;
+						margin-top: @base-padding/2;
+						color: @main-text-color;
+					}
+				}
+			}
+
+			.breadcrumb-env {
+				float: right;
+				padding-right: @default-padding;
+
+				@media screen and (max-width: @screen-xs) {
+					clear: both;
+					float: none;
+					padding: 0 @base-padding;
+				}
+
+				.breadcrumb {
+					margin-bottom: 0;
+					margin-top: @base-padding - 2;
+
+					@media screen and (max-width: @screen-sm) {
+						margin-top: 4px;
+
+						li a {
+							font-size: @font-size-small;
+						}
+					}
+				}
+			}
+		}
+	}
+}

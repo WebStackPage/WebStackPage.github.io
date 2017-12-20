@@ -1,0 +1,45 @@
+.dropdown-menu {
+		
+	&.no-spacing {
+		margin-top: -10px;
+	}
+	
+	&.dropdown-primary { .xenon-dropdown-style(@brand-primary; #FFF; lighten(@brand-primary, 10%)); }
+	&.dropdown-secondary { .xenon-dropdown-style(@secondary-color; #FFF; darken(@secondary-color, 5%)); }
+	&.dropdown-info { .xenon-dropdown-style(@brand-info; #FFF; darken(@brand-info, 8%)); }
+	&.dropdown-success { .xenon-dropdown-style(@brand-success; #FFF; darken(@brand-success, 5%)); }
+	&.dropdown-warning { .xenon-dropdown-style(@brand-warning; #FFF; darken(@brand-warning, 5%)); }
+	&.dropdown-danger { .xenon-dropdown-style(@brand-danger; #FFF; darken(@brand-danger, 8%)); }
+	&.dropdown-red { .xenon-dropdown-style(@xe-red; #FFF; darken(@xe-red, 5%)); }
+	&.dropdown-purple { .xenon-dropdown-style(@xe-purple; #FFF; darken(@xe-purple, 8%)); }
+	&.dropdown-blue { .xenon-dropdown-style(@xe-blue; #FFF; darken(@xe-blue, 8%)); }
+	&.dropdown-black { .xenon-dropdown-style(@xe-black; #FFF; lighten(@xe-black, 8%)); }
+	
+	&.dropdown-white { 
+		
+		&.no-spacing {
+			margin-top: -11px;
+		} 
+	}
+}
+
+.xenon-dropdown-style(@bg; @txt: #FFF; @border: darken(@bg, 10%))
+{
+	background: @bg;
+	border-color: @bg;
+	
+	.divider {
+		.nav-divider(@border);
+	}
+	
+	> li {
+	
+		> a {
+			color: @txt;
+			
+			&:hover {
+				background-color: @border;
+			}
+		}
+	}
+}

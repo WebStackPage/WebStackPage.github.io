@@ -1,0 +1,24 @@
+@media print {
+
+	.sidebar-menu {
+		display: none;
+	}
+	
+	.main-content {
+		padding: 0 !important;
+		
+		.user-info-navbar,
+		.page-title,
+		footer.main-footer {
+			display: none;
+		}
+		
+		> .panel {
+			margin-bottom: 0;
+			
+			+ .panel {
+				margin-top: @default-padding;
+			}
+		}
+	}
+}

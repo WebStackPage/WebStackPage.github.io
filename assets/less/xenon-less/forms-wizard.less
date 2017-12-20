@@ -1,0 +1,151 @@
+.form-wizard {
+	&:extend(.clearfix all);
+	
+	> .tabs {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: table;
+		position: relative;
+		width: 100%;
+		
+		> li {
+			display: table-cell;
+			width: 1%;
+			text-align: center;
+			background: darken(#fff, 1%);
+			
+			a {
+				position: relative;
+				display: block;
+				padding: @base-padding @base-padding/2;
+				color: @main-text-color;
+				&:extend(.transall);
+				
+				> span {
+					background: @secondary-color;
+					font-size: @font-size-small;
+					color: #fff;
+					background: darken(@background-color, 2%);
+					color: @main-text-color;
+					padding: 2px 0;
+					text-align: center;
+					display: block;
+					position: relative;
+					margin: -@base-padding -@base-padding/2;
+					margin-top: @base-padding;
+				}
+					
+				&:after {
+					content: '';
+					position: absolute;
+					display: block;
+					height: @base-padding;
+					background: transparent;
+					top: 100%;
+					left: 0;
+					right: 0;
+					&:extend(.transall);
+				}
+				
+				&:hover {
+					background: #f7f7f7;
+				}
+			}
+			
+			+ li {
+				border-left: 1px solid @background-color;
+			}
+			
+			&.active {
+				
+				a {
+					color: darken(@main-text-color, 20%);
+					
+					&:after {
+						background-color: fade(#000, 10%);
+					}
+				}
+			}
+			
+			&.completed {
+				background-color: #f7f7f7;
+			}
+		}
+	}
+	
+	> .progress-indicator {
+		@h: 10px;
+		
+		height: @base-padding;
+		position: relative;
+		background: transparent;
+		width: 0%;
+		overflow: hidden;
+		.box-sizing(border-box);
+		.transition(~"height 250ms cubic-bezier(0.190, 1.000, 0.220, 1.000), width 500ms cubic-bezier(0.190, 1.000, 0.220, 1.000)");
+		
+		> span {
+			display: block;
+			background: @brand-success;
+			height: @h;
+			line-height: 1;
+			text-indent: -9999px;
+		}
+	}
+	
+	.tab-content {
+		margin-top: @base-margin;
+		
+		strong {
+			color: darken(@main-text-color, 10%);
+		}
+		
+		label {
+			color: @main-text-color;
+		}
+		
+		.tab-pane {
+			
+			> .form-group {
+				margin-bottom: @base-margin + @base-padding/2;
+				
+				&:last-child {
+					margin-bottom: 0;
+				}
+			}
+		}
+		
+		&.no-margin {
+			margin-top: 0;
+			
+			.tab-pane.with-bg {
+				padding-top: @default-padding/2;
+			}
+		}
+		
+		.tab-pane {
+			
+			&.with-bg {
+				background: #fff;
+				padding: @base-margin;
+			}
+		}
+	}
+	
+	.pager {
+		margin-top: @base-margin;
+		
+		.previous + .previous a {
+			margin-left: @base-padding/2;
+		}
+		
+		.next + .next a {
+			margin-right: @base-padding/2;
+		}
+		
+		.disabled a {
+			.opacity(.5);
+		}
+	}
+}

@@ -1,0 +1,37 @@
+html body .uk-nestable {
+	
+	.uk-nestable-item {
+		
+	}
+}
+
+@padd-v: 5px;
+@padd-h: 8px;
+
+.uk-nestable-item {
+	
+	.uk-nestable-handle {
+		padding: @padd-v @padd-h;
+		background: lighten(@input-border, 4%);
+		
+		&:hover, &:active {
+			background: darken(@input-border, 1%);
+		}
+	}
+	
+	[data-nestable-action="toggle"] {
+		padding: 0 @padd-v;
+		padding-right: 0;
+		display: none;
+	}
+		
+	.list-label {
+		display: inline-block;
+		line-height: 1;
+		padding: @padd-v @padd-h;
+	}
+}
+
+.uk-parent > .uk-nestable-item [data-nestable-action='toggle'] {
+	display: inline-block !important;
+}

@@ -1,0 +1,161 @@
+.sidebar-user-info {
+	background-color: @main-active-color;
+	border-bottom: 1px solid @main-border-color;
+
+	@media screen and (max-width: @screen-sm-min){
+		display: none;
+
+		&.mobile-is-visible {
+			display: block;
+		}
+	}
+
+	.user-profile {
+		display: block;
+		padding: @default-padding (@double-margin + @sidebar-horizontal-link-padding);
+
+		@media screen and (max-width: @screen-sm-min){
+			padding-top: @base-margin;
+			padding-bottom: @base-margin;
+		}
+
+		img {
+			margin-right: @base-margin;
+		}
+
+		span {
+			display: inline-block;
+			color: @main-text-color;
+			vertical-align: middle;
+
+			strong {
+				display: block;
+				font-size: @font-size-h3 - 2;
+				color: @main-text-active-color;
+				font-weight: 300;
+			}
+		}
+	}
+
+	.user-links {
+		display: table;
+		width: 100%;
+		table-layout: fixed;
+		border-top: 1px solid @main-border-color;
+		margin: 0;
+
+		li {
+			display: table-cell;
+
+			&.logout-link {
+				width: 20%;
+			}
+
+			a {
+				display: block;
+				text-align: center;
+				color: @main-text-color;
+				padding: @base-padding;
+				&:extend(.transall);
+
+				&:hover {
+					color: @main-text-active-color;
+					background-color: fade(@main-border-color, 25%);
+				}
+			}
+
+			&.active a {
+				color: @main-text-active-color;
+				background-color: fade(@main-border-color, 25%);
+			}
+
+			+ li {
+
+				a {
+					border-left: 1px solid @main-border-color;
+				}
+			}
+		}
+	}
+
+	+ .main-menu {
+		margin-top: @base-padding;
+	}
+
+	@media screen and (min-width: @screen-sm){
+
+		.sidebar-menu.collapsed & {
+			@collapsed-container-width: 280px;
+			@collapsed-container-name-height: 62px;
+
+			+ .main-menu {
+				margin-top: 0;
+			}
+
+			.sidebar-user-info-inner {
+				position: relative;
+
+				.user-profile {
+					padding: @default-padding/2 0;
+					text-align: center;
+
+					img {
+						max-width: 32px;
+						height: auto !important;
+						margin: 0;
+					}
+
+					span {
+						text-align: left;
+						position: absolute;
+						left: 100%;
+						top: 0;
+						background-color: @main-active-color;
+						display: block;
+						width: @collapsed-container-width;
+						height: @collapsed-container-name-height;
+						padding: @base-padding @base-margin;
+
+						.right-sidebar & {
+							left: auto;
+							right: 100%;
+						}
+
+						strong {
+							font-size: @font-size-h4;
+						}
+					}
+				}
+
+				.user-links {
+					position: absolute;
+					left: 100%;
+					width: @collapsed-container-width;
+					background-color: @main-active-color;
+					top: @collapsed-container-name-height;
+
+					.right-sidebar & {
+						left: auto;
+						right: 100%;
+					}
+				}
+
+				.user-profile span,
+				.user-links {
+					display: none;
+				}
+
+				&:hover {
+
+				.user-profile span {
+					display: block;
+				}
+
+				.user-links {
+					display: table;
+				}
+			}
+			}
+		}
+	}
+}

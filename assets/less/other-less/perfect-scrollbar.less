@@ -1,0 +1,100 @@
+@scroll-bg: #FFF;
+
+.ps-container {
+	
+	.ps-scrollbar-x-rail {
+		position: absolute; /* please don't change 'position' */
+		bottom: 3px; /* there must be 'bottom' for ps-scrollbar-x-rail */
+		height: 5px;
+		.opacity(0);
+		.transition(~"background-color .2s linear, opacity .2s linear");
+	}
+
+	&:hover .ps-scrollbar-x-rail,
+	&.hover .ps-scrollbar-x-rail {
+		.opacity(0.6);
+	}
+	
+	.ps-scrollbar-x-rail:hover,
+	.ps-scrollbar-x-rail.hover {
+		background-color: fade(@scroll-bg, 50%);
+	}
+	
+	.ps-scrollbar-x-rail.in-scrolling {
+		background-color: fade(@scroll-bg, 90%);
+	}
+	
+	.ps-scrollbar-y-rail {
+		position: absolute; /* please don't change 'position' */
+		right: 2px; /* there must be 'right' for ps-scrollbar-y-rail */
+		width: 5px;
+		.opacity(0);
+		.transition(~"background-color .2s linear, opacity .2s linear");
+	}
+	
+	&:hover .ps-scrollbar-y-rail,
+	&.hover .ps-scrollbar-y-rail {
+		.opacity(0.6);
+	}
+	
+	.ps-scrollbar-y-rail:hover,
+	.ps-scrollbar-y-rail.hover {
+		background-color: fade(@scroll-bg, 50%);
+	}
+	
+	.ps-scrollbar-y-rail.in-scrolling {
+		background-color: #eee;
+		.opacity(0.9);
+	}
+	
+	.ps-scrollbar-x {
+		position: absolute; /* please don't change 'position' */
+		bottom: 0; /* there must be 'bottom' for ps-scrollbar-x */
+		height: 5px;
+		background-color: #aaa;
+		-o-transition: background-color .2s linear;
+		-webkit-transition: background-color.2s linear;
+		-moz-transition: background-color .2s linear;
+		transition: background-color .2s linear;
+	}
+	
+	&.ie6 .ps-scrollbar-x {
+		font-size: 0; /* fixed scrollbar height in xp sp3 ie6 */
+	}
+
+	
+	.ps-scrollbar-x-rail:hover .ps-scrollbar-x,
+	.ps-scrollbar-x-rail.hover .ps-scrollbar-x {
+		background-color: #999;
+	}
+	
+	.ps-scrollbar-y {
+		position: absolute; /* please don't change 'position' */
+		right: 0; /* there must be 'right' for ps-scrollbar-y */
+		width: 5px;
+		background-color: #aaa;
+		.transition(~"background-color .2s linear");
+	}
+
+
+	&.ie6 .ps-scrollbar-y {
+		font-size: 0; /* fixed scrollbar height in xp sp3 ie6 */
+	}
+	
+	.ps-scrollbar-y-rail:hover .ps-scrollbar-y,
+	.ps-scrollbar-y-rail.hover .ps-scrollbar-y {
+		background-color: #FAFAFA;
+	}
+	
+	&.ie .ps-scrollbar-x,
+	&.ie .ps-scrollbar-y {
+		visibility: hidden;
+	}
+	
+	&.ie:hover .ps-scrollbar-x,
+	&.ie:hover .ps-scrollbar-y,
+	&.ie.hover .ps-scrollbar-x,
+	&.ie.hover .ps-scrollbar-y {
+		visibility: visible;
+	}
+}

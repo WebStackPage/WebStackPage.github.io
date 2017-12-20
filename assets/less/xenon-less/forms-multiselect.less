@@ -1,0 +1,50 @@
+.ms-container {
+	.background-size(21px) !important;
+
+	@media screen and (max-width: @screen-sm-min){
+		width: 100% !important;
+	}
+
+	// Options to select
+	.ms-selectable {
+
+	}
+
+	// Selected options
+	.ms-selection {
+
+	}
+
+
+	// List
+	> div > .ms-list {
+		border-color: @input-border !important;
+		.box-shadow(none) !important;
+		.border-radius(@border-radius-base);
+		.user-select(none);
+		overflow: hidden; /* If you dont use perfect scrollbar then remove this line */
+
+		&:active {
+			border-color: darken(@input-border, 10%) !important;
+		}
+
+		&.ps-container {
+		}
+
+		li {
+			display: block;
+			width: 100%;
+
+			span {
+				font-size: @font-size-base;
+			}
+
+			&.ms-hover {
+				background-color: @secondary-color;
+			}
+
+			&.ms-elem-selectable {
+			}
+		}
+	}
+}

@@ -1,0 +1,31 @@
+// Loading Bar
+.xenon-loading-bar {
+	@h: 3px;
+	
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	background: fade(@brand-primary, 30%);
+	height: @h;
+	z-index: 10000;
+	top: 0px;
+	.opacity(1);
+	.transall;
+	
+	span {
+		display: block;
+		position: absolute;
+		left: 0;
+		top: 0;
+		bottom: 0;
+		width: 0%;
+		background: @secondary-color;
+	}
+	
+	&.progress-is-hidden {
+		top: -@h;
+		.opacity(.5);
+		visibility: hidden;
+	}
+}
