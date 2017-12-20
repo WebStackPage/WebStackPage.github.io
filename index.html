@@ -5,21 +5,28 @@
     <meta charset="UTF-8">
     <title>Document</title>
     <script>
-    if (navigator.appName == ”Netscape”)
-
+if (navigator.appName == "Netscape"){
         var language = navigator.language;
+    }
 
-    else
 
+    else{
         var language = navigator.browserLanguage;
 
-    if (language.indexOf(“en”) > -1) document.location.href = “en/index.html”;
+    }
 
-    else if (language.indexOf(“zh”) > -1) document.location.href = ”cn/index.html”;
+    if (language.indexOf(“en”) > -1) {
+        document.location.href = "en/index.html";
+    }
 
-    else
+    else if (language.indexOf(“zh”) > -1){
+        document.location.href = "cn/index.html";
+    } 
 
-        document.location.href = ”en/index.html”;
+    else{
+        document.location.href = "en/index.html";
+        
+    }
     </script>
 </head>
 
