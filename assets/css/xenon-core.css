@@ -762,7 +762,7 @@ body {
 }
 
 .boxed-container {
-    background: #ccc
+    background: #f9f9f9
 }
 
 .boxed-container #chat .chat-inner {
@@ -823,7 +823,7 @@ body {
 }
 
 .boxed-container .page-container .main-content {
-    background-color: #eee
+    background-color: #f9f9f9
 }
 
 .page-container .main-content:hover {
@@ -2260,7 +2260,7 @@ footer.main-footer.footer-type-2 .go-up a:hover {
 
 footer.main-footer.fixed {
     position: fixed;
-    left: 340px;
+    left: 0px;
     right: 0;
     bottom: 0;
     margin-left: 0;
