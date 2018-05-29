@@ -1,81 +1,209 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>webstack - 404</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0" />
+    <link rel="shortcut icon" href="./assets/images/favicon.png">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-77253689-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="description" content="DesignStack" />
-	<meta name="author" content="" />
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-	<title>DesignStack</title>
-
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic">
-	<link rel="stylesheet" href="assets/css/fonts/linecons/css/linecons.css">
-	<link rel="stylesheet" href="assets/css/fonts/fontawesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="assets/css/bootstrap.css">
-	<link rel="stylesheet" href="assets/css/xenon-core.css">
-	<link rel="stylesheet" href="assets/css/xenon-forms.css">
-	<link rel="stylesheet" href="assets/css/xenon-components.css">
-	<link rel="stylesheet" href="assets/css/xenon-skins.css">
-	<link rel="stylesheet" href="assets/css/custom.css">
-
-	<script src="assets/js/jquery-1.11.1.min.js"></script>
-
-	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
-
-
+    gtag('config', 'UA-77253689-1');
+    </script>
+    <style>
+    html,
+    body {
+        width: 100%;
+        height: 100%
+    }
+    
+    a,
+    a img,
+    a:before,
+    a:after {
+        text-decoration: none;
+        transition-duration: .25s
+    }
+    
+    section {
+        display: block
+    }
+    
+    body {
+        line-height: 1
+    }
+    
+    #about {
+        width: 40%;
+        position: absolute;
+        top: 40%;
+        left: 10%;
+        z-index: 20;
+        transform: translate(0, -50%);
+    }
+    
+    #about h1 {
+        margin: 30px;
+    }
+    
+    #about p {
+        margin: 30px;
+    }
+    
+    #about img {
+        margin-left: 30px;
+    }
+    
+    #about .social {
+        float: left;
+        margin: 30px;
+    }
+    
+    #about .copyright {
+        width: 100%;
+        float: left;
+        margin-bottom: 0px;
+    }
+    
+    @media (max-width: 768px) {
+        #about {
+            width: 100%;
+            left: 0px;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.85);
+        }
+        #about h1 {
+            margin: 30px;
+        }
+        #about p {
+            margin: 30px;
+        }
+        #about .social {
+            margin: 30px;
+        }
+        #about .copyright {
+            width: 100%;
+            float: left;
+            margin-bottom: 0px;
+        }
+    }
+    
+    @media (max-width: 580px) {
+        #about {
+            width: 100%;
+            left: 0px;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.85);
+        }
+        #about h1 {
+            margin: 30px;
+        }
+        #about p {
+            margin: 30px;
+            margin-bottom: 0px
+        }
+        #about .social {
+            margin: 30px;
+            margin-bottom: 0px
+        }
+        #about .copyright {
+            width: 100%;
+            float: left;
+            margin-bottom: 0px;
+        }
+    }
+    
+    .animated {
+        animation-duration: 1s;
+        animation-fill-mode: both
+    }
+    
+    .bounce-in {
+        animation-name: bounce-in
+    }
+    
+    @keyframes bounce-in {
+        from,
+        60%,
+        75%,
+        90%,
+        to {
+            animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1)
+        }
+        0% {
+            opacity: 0;
+            transform: translate3d(-3000px, -50%, 0)
+        }
+        60% {
+            opacity: 1;
+            transform: translate3d(25px, -50%, 0)
+        }
+        75% {
+            transform: translate3d(-10px, -50%, 0)
+        }
+        90% {
+            transform: translate3d(5px, -50%, 0)
+        }
+        to {
+            transform: translate3d(0, -50%)
+        }
+    }
+    
+    body {
+        font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 1.75;
+        color: rgba(0, 0, 0, 0.65)
+    }
+    
+    h1 {
+        font-family: "Merriweather", sans-serif;
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 1.25;
+        color: rgba(0, 0, 0, 0.85);
+        margin-bottom: 25px
+    }
+    
+    a {
+        color: rgba(3, 3, 3, 0.85);
+        font-weight: 600;
+    }
+    
+    @media (max-width: 580px) {
+        body {
+            font-size: 14px
+        }
+        h1 {
+            font-size: 42px;
+            line-height: 1.45
+        }
+    }
+    
+    .bg-align {
+        margin-top: 50%;
+    }
+    </style>
 </head>
-<body class="page-body page-error-env">
 
-	<div class="page-error centered">
-		
-		<div class="error-symbol">
-			<i class="fa-warning"></i>
-		</div>
-		
-		<h2>
-			Error 404
-			<small>Page not found!</small>
-		</h2>
-		
-		<p>We did not find the page you were looking for!</p>
-		<p>You can search again or contact one of our agents to help you!</p>
-		
-	</div>
-	
-	<div class="page-error-search centered">
-		<form class="form-half" method="get" action="" enctype="application/x-www-form-urlencoded">
-			<input type="text" class="form-control input-lg" placeholder="Search..." />
-			
-			<button type="submit" class="btn-unstyled">
-				<i class="linecons-search"></i>
-			</button>
-		</form>
-		
-		<a href="index.html" class="go-back">
-			<i class="fa-angle-left"></i>
-			Go Back
-		</a>
-	</div>
-
-
-
-	<!-- Bottom Scripts -->
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/TweenMax.min.js"></script>
-	<script src="assets/js/resizeable.js"></script>
-	<script src="assets/js/joinable.js"></script>
-	<script src="assets/js/xenon-api.js"></script>
-	<script src="assets/js/xenon-toggles.js"></script>
-
-
-	<!-- JavaScripts initializations and stuff -->
-	<script src="assets/js/xenon-custom.js"></script>
-
+<body>
+    <section id="about" class="animated bounce-in">
+        <div class="bg-align">
+            <h1>404</h1>
+            <p>Oops! It looks like you're lost...</p>
+            <p>The Page you're looking for doesn't exist or another error occurred.</p>
+            <p><a href="http://webstack.cc">👉  webstack.cc</a></p>
+        </div>
+    </section>
 </body>
+
 </html>
