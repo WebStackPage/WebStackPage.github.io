@@ -1,4 +1,4 @@
-[➡️ www.webstack.cc](https://webstack.cc) - 设计师的网址导航
+[➡️ www.webstack.cc](https://webstack.cc) - 网址导航
 ===
 
 这是一个纯静态的网址导航网站，内容均由[viggo](http://viggoz.com)收集并整理。项目基于bootstrap前端框架开发。
