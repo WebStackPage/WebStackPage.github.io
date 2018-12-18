@@ -3,7 +3,8 @@
 
 <head>
     <script>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    < script async src = "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" >
+    </script>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({
         google_ad_client: "ca-pub-8550836177608334",
@@ -4050,21 +4051,25 @@
     </div>
     <!-- 锚点平滑移动 -->
     <script type="text/javascript">
-    // $(document).ready(function() {
-    //     $("#main-menu li ul li").click(function() {
-    //         $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
-    //         $(this).addClass('active'); // 添加当前元素的样式
-    //     });
-    //     $("a.smooth").click(function() {
-    //         $("html, body").animate({
-    //             scrollTop: $($(this).attr("href")).offset().top - 30
-    //         }, {
-    //             duration: 500,
-    //             easing: "swing"
-    //         });
-    //     });
-    //        return false;
-    // });
+    $(document).ready(function() {
+        $("#main-menu li ul li").click(function() {
+            $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
+            $(this).addClass('active'); // 添加当前元素的样式
+        });
+        $("a.smooth").click(function(ev) {
+            ev.preventDefault();
+
+            public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
+            ps_destroy();
+            $("html, body").animate({
+                scrollTop: $($(this).attr("href")).offset().top - 30
+            }, {
+                duration: 500,
+                easing: "swing"
+            });
+        });
+        return false;
+    });
 
     var href = "";
     var pos = 0;
@@ -4076,22 +4081,7 @@
         e.preventDefault();
         href = $(this).attr("href");
         pos = $(href).position().top - 30;
-        $("html,body").animate({
-            scrollTop: pos
-        }, 500);
     });
-    </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111463289-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-111463289-1');
     </script>
     <!-- Bottom Scripts -->
     <script src="../assets/js/bootstrap.min.js"></script>

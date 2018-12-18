@@ -4110,36 +4110,36 @@
         </div>
     </div>
     <!-- 锚点平滑移动 -->
-    <script type=”text/javascript“>
-    $(document).ready(function() {
-        $(”#main - menu li ul li“).click(function() {
-            $(this).siblings(’li‘).removeClass(’active‘); // 删除其他兄弟元素的样式
-            $(this).addClass(’active‘); // 添加当前元素的样式
-        });
-        $(”a.smooth“).click(function(ev) {
-            ev.preventDefault();
+    <script type="text/javascript">
+     $(document).ready(function() {
+         $("#main-menu li ul li").click(function() {
+             $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
+             $(this).addClass('active'); // 添加当前元素的样式
+         });
+         $("a.smooth").click(function(ev) {
+             ev.preventDefault();
 
-            public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass(’mobile - is - visible‘);
-            ps_destroy();
-            $(”html, body“).animate({
-                scrollTop: $($(this).attr(”href“)).offset().top - 30
-            }, {
-                duration: 500,
-                easing: ”swing“
-            });
-        });
-        return false;
+             public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
+             ps_destroy();
+             $("html, body").animate({
+                 scrollTop: $($(this).attr("href")).offset().top - 30
+             }, {
+                 duration: 500,
+                 easing: "swing"
+             });
+         });
+            return false;
     });
 
-    var href = ”“;
+    var href = "";
     var pos = 0;
-    $(”a.smooth“).click(function(e) {
-        $(”#main - menu li“).each(function() {
-            $(this).removeClass(”active“);
+    $("a.smooth").click(function(e) {
+        $("#main-menu li").each(function() {
+            $(this).removeClass("active");
         });
-        $(this).parent(”li“).addClass(”active“);
+        $(this).parent("li").addClass("active");
         e.preventDefault();
-        href = $(this).attr(”href“);
+        href = $(this).attr("href");
         pos = $(href).position().top - 30;
     });
     </script>
