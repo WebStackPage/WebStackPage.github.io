@@ -57,6 +57,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | tool - wxuegao | [http://tool.wxuegao.com/](http://tool.wxuegao.com/) |
 | ✅已上线 | vv.lc - 网址导航 | [http://vv.lc/](http://vv.lc/) |
 | ✅已上线 | 东莞理工学习导航 | [http://gd.dgut.top/cn/index2.html](http://gd.dgut.top/cn/index2.html) |
+| ✅已上线 | 程序员网址导航 - hujiangtao | [https://web.hujiangtao.cn/](https://web.hujiangtao.cn/) |
 | 🕗开发中 | QAdoc - 测试工作者导航 | [http://nav.qadoc.org/cn/index.html](http://nav.qadoc.org/cn/index.html) |
 | 🕗开发中 | t.hiihi | [http://t.hiihi.cn/](http://t.hiihi.cn/) |
 | 🕗开发中 | Dapp公园 | [http://xdapp.pw/](http://xdapp.pw/) |
@@ -64,8 +65,8 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | 🕗开发中 | zou0 | [http://www.zou0.com/cn/index.html](http://www.zou0.com/cn/index.html) |
 | 🕗开发中 | PMGEEK | [http://pmgeek.net/](http://pmgeek.net/) |
 | 🕗开发中 | alabom.top | [http://alabom.top/cn/index.html](http://alabom.top/cn/index.html) |
-| 🕗开发中  | lerso.cn | [http://lerso.cn/](http://lerso.cn/) |
-| 🕗开发中  | wukandy.cn | [https://wukandy.cn/](https://wukandy.cn/) |
+| 🕗开发中 | lerso.cn | [http://lerso.cn/](http://lerso.cn/) |
+| 🕗开发中 | wukandy.cn | [https://wukandy.cn/](https://wukandy.cn/) |
 
 ## License
 
