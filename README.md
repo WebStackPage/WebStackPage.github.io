@@ -54,6 +54,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | 造作家 | [造作家](https://www.hitsz.top/) |
 | ✅已上线 | 魔米导航 | [魔米导航 \- 精品网址导航](http://www.nmomi.com/) |
 | ✅已上线 | 谢週五の导航站 | [谢週五の导航站 \- 5nav\.ml](https://5nav.ml/) |
+| ✅已上线 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
 | ✅已上线 | 域名购买&域名商场&行业导航 | [http://www.yichushou.com/](http://www.yichushou.com/) |
 | ✅已上线 | AVI导航 - 一键到达好去处 | [https://www.avi101.com/](https://www.avi101.com/) |
 | ✅已上线 | 杏map | [http://xx-map.com/](http://xx-map.com/) |
