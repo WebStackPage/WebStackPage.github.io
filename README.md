@@ -1,4 +1,4 @@
-[➡️ www.webstack.cc](https://webstack.cc) - 网址导航
+[➡️ data.seelsool.xyz](https://data.seelsool.xyz) - 网址导航
 ===
 QQ群交流：304584722
 
