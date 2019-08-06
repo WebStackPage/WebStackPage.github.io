@@ -22,7 +22,10 @@ https://github.com/hui-ho/WebStack-Laravel
 
 https://hub.docker.com/r/arvon2014/webstack-laravel
 
-#### 4. 自己写后台系统
+#### 4. 基于Java开发的后台系统：[jsnjfz](https://github.com/jsnjfz)提供（未验证）
+https://github.com/jsnjfz/WebStack-Guns
+
+#### 5. 自己写后台系统
 可以按照自己的喜好和框架搭建后台系统，也可以参考我设计好的后台框架自行搭建。本站设计开发过程在我的博客文章有详细讲到[《webstack \| viggo》](http://blog.viggoz.com/2018/01/03/2018-01-03-webstack/)。静态源码（半成品）：[https://github.com/WebStackPage/webstack-Admin](https://github.com/WebStackPage/webstack-Admin)
 
 如果你有更好的解决方案，并且能够开源供大家使用，可以在本项目提Issus，或者直接通过我个人网站中的联系方式联系我。
