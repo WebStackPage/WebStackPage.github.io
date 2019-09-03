@@ -14,18 +14,20 @@ QQ群交流：304584722
 #### 1. 使用静态托管
 最简单快速上线自己的导航网站，你可以直接**下载**本项目修改内容既可部署上线。
 
-#### 2. 使用基于 Laravel 搭建的后台系统🔥感谢[@hui-ho)](https://github.com/hui-ho)提供
+#### 2. 使用基于 Laravel 搭建的后台系统🔥(感谢[@hui-ho](https://github.com/hui-ho)提供)
 开源地址：https://github.com/hui-ho/WebStack-Laravel
+
 Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
 
-#### 3. WordPress 主题🔥感谢 [@一为忆](https://www.iowen.cn/)提供
+#### 3. WordPress 主题🔥(感谢 [@一为忆](https://www.iowen.cn/)提供)
 开源地址：https://github.com/owen0o0/WebStack
+
 教程：[WordPress 版 WebStack 导航主题使用说明 \| 一为忆](https://www.iowen.cn/wordpress-version-webstack/)
 
-#### 4. 基于Java开发的后台系统🔥感谢[@jsnjfz](https://github.com/jsnjfz)提供
+#### 4. 基于Java开发的后台系统🔥(感谢[@jsnjfz](https://github.com/jsnjfz)提供)
 开源地址：https://github.com/jsnjfz/WebStack-Guns
 
-#### 5. 使用Typecho主题🔥感谢[@SEOGO](https://www.seogo.me/)提供
+#### 5. 使用Typecho主题🔥(感谢[@SEOGO](https://www.seogo.me/)提供)
 开源地址：[https://www.seogo.me/muban/webstack.html](https://www.seogo.me/muban/webstack.html)
 
 #### 6. 自己写后台系统
