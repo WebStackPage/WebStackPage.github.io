@@ -83,6 +83,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | 酸奶 - 广告运营从业者类别导航 | [酸奶 \- 专注广告运营从业者类别导航](http://about.edu233.cn/) |
 | ✅已上线 | 浮生论坛 \- 念念不忘，必有回响 | [浮生论坛 \- 念念不忘，必有回响](https://fusfun.club/cn/index.html) |
 | ✅已上线 |Pandaroll\.cn 网址导航 | [Pandaroll\.cn 网址导航](http://pandaroll.cn/cn/index.html) |
+| ✅已上线 |英阅导航 | [英阅网址导航](http://enreading.ishare20.net/) |
 | 🕗开发中 | QAdoc - 测试工作者导航 | [http://nav.qadoc.org/cn/index.html](http://nav.qadoc.org/cn/index.html) |
 | 🕗开发中 | t.hiihi | [http://t.hiihi.cn/](http://t.hiihi.cn/) |
 | 🕗开发中 | zou0 | [http://www.zou0.com/cn/index.html](http://www.zou0.com/cn/index.html) |
