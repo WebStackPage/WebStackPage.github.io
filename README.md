@@ -54,37 +54,31 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 
 | 状态 | 网站名 | 网址 |
 | --- | --- | --- |
-| ✅已上线 | 牛导航 - 实用工具导航 | [http://ziliao6.com/](http://ziliao6.com/) |
+| ✅已上线 | 造作家 | [造作家](https://www.hitsz.top/) |
+| ✅已上线 | 谢週五の导航站 | [谢週五の导航站 \- 5nav\.ml](https://5nav.ml/) |
+| ✅已上线 | 狼牌工作网址导航 | [https://www.volf.club/](https://www.volf.club/) |
 | ✅已上线 | 高效搜罗 - 精准的职业导航 | [http://gaoxiaosouluo.cn/](http://gaoxiaosouluo.cn/) |
 | ✅已上线 | 卖家大全 - 最全卖家导航 | [http://maijiadaquan.com/](http://maijiadaquan.com/) |
 | ✅已上线 | 广告人导航 - 广告没门 | [https://adnodoor.com/nav/](https://adnodoor.com/nav/) |
-| ✅已上线 | 水木清华 | [水木清华](https://www.open985.com/) |
-| ✅已上线 | 造作家 | [造作家](https://www.hitsz.top/) |
 | ✅已上线 | 魔米导航 | [魔米导航 \- 精品网址导航](http://www.nmomi.com/) |
-| ✅已上线 | 谢週五の导航站 | [谢週五の导航站 \- 5nav\.ml](https://5nav.ml/) |
-| ✅已上线 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
 | ✅已上线 | 域名购买&域名商场&行业导航 | [http://www.yichushou.com/](http://www.yichushou.com/) |
-| ✅已上线 | AVI导航 - 一键到达好去处 | [https://www.avi101.com/](https://www.avi101.com/) |
 | ✅已上线 | 杏map | [http://xx-map.com/](http://xx-map.com/) |
 | ✅已上线 | DreamThere - 梦想导航 | [https://nav.dreamthere.com/](https://nav.dreamthere.com/) |
 | ✅已上线 | 聚BT \- 聚合最优质的BT、磁力资源 | [聚BT \- 聚合最优质的BT、磁力资源](https://www.jubt.net/cn/index.html) |
-| ✅已上线 | 推荐短视频 - 网红短视频导航 | [https://wx.dreamthere.com/](https://wx.dreamthere.com/) |
-| ✅已上线 | 狼牌工作网址导航 | [https://www.volf.club/](https://www.volf.club/) |
 | ✅已上线 | JKnear导航 - 建筑结构设计导航 | [http://jk.jknear.com:777/](http://jk.jknear.com:777/) |
 | ✅已上线 | site navigation – QAOZEN | [https://qaozen.com/nav/](https://qaozen.com/nav/) |
-| ✅已上线 | 京东运营网址导航 | [http://miyue1980.com/](http://miyue1980.com/) |
-| ✅已上线 | 快导航 - 简单的网址导航大全 | [https://wukandy.cn/](https://wukandy.cn/) |
 | ✅已上线 | ShareHub - 资源和工具的集合 | [https://www.gezhipu.com/cn/index.html](https://www.gezhipu.com/cn/index.html) |
-| ✅已上线 | 喵帕斯 - 喵帕斯导航页 | [http://naspro.cc/](http://naspro.cc/) |
 | ✅已上线 | 我的收藏夹 - 个人网址导航站 | [https://www.kukiliao.com/](https://www.kukiliao.com/) |
-| ✅已上线 | tool - wxuegao | [http://tool.wxuegao.com/](http://tool.wxuegao.com/) |
 | ✅已上线 | vv.lc - 网址导航 | [http://vv.lc/](http://vv.lc/) |
 | ✅已上线 | 程序员网址导航 - hujiangtao | [https://web.hujiangtao.cn/](https://web.hujiangtao.cn/) |
-| ✅已上线 | 酸奶 - 广告运营从业者类别导航 | [酸奶 \- 专注广告运营从业者类别导航](http://about.edu233.cn/) |
-| ✅已上线 | 浮生论坛 \- 念念不忘，必有回响 | [浮生论坛 \- 念念不忘，必有回响](https://fusfun.club/cn/index.html) |
 | ✅已上线 |Pandaroll\.cn 网址导航 | [Pandaroll\.cn 网址导航](http://pandaroll.cn/cn/index.html) |
-| 🕗开发中 | QAdoc - 测试工作者导航 | [http://nav.qadoc.org/cn/index.html](http://nav.qadoc.org/cn/index.html) |
-| 🕗开发中 | t.hiihi | [http://t.hiihi.cn/](http://t.hiihi.cn/) |
+| ✅已上线 | Link - 我的网址收藏夹 | [Link - 我的网址收藏夹](https://link.jianrry.com) |
+| ✅已上线 | 77导航 | [77导航](https://nav.dig77.com/) |
+| ✅已上线 | 牛导航 - 实用工具导航 | [http://ziliao6.com/](http://ziliao6.com/) |
+| ✅已上线 | QAdoc - 测试工作者导航 | [http://nav.qadoc.org/cn/index.html](http://nav.qadoc.org/cn/index.html) |
+| ✅已上线 | t.hiihi | [http://t.hiihi.cn/](http://t.hiihi.cn/) |
+| ✅已上线 | hytale导航 | [https://www.hytale-nav.com/](https://www.hytale-nav.com/) |
+| ✅已上线 |英阅导航 | [英阅网址导航](http://enreading.ishare20.net/) |
 | 🕗开发中 | zou0 | [http://www.zou0.com/cn/index.html](http://www.zou0.com/cn/index.html) |
 | 🕗开发中 | Matrix Navigation | [Matrix Navigation \-](https://navi.sh-oo.com/) |
 | 🕗开发中 | PMGEEK | [http://pmgeek.net/](http://pmgeek.net/) |
@@ -97,6 +91,15 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | Dapp公园 | [http://xdapp.pw/](http://xdapp.pw/) |
 | ❌已下线 | zero-null | [https://zero-null.github.io/works/cn/index.html](https://zero-null.github.io/works/cn/index.html) |
 | ❌已下线 | alabom.top | [http://alabom.top/cn/index.html](http://alabom.top/cn/index.html) |
+| ❌已下线 | 水木清华 | [水木清华](https://www.open985.com/) |
+| ❌已下线 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
+| ❌已下线 | 酸奶 - 广告运营从业者类别导航 | [酸奶 \- 专注广告运营从业者类别导航](http://about.edu233.cn/) |
+| ❌已下线 | AVI导航 - 一键到达好去处 | [https://www.avi101.com/](https://www.avi101.com/) |
+| ❌已下线 | 京东运营网址导航 | [http://miyue1980.com/](http://miyue1980.com/) |
+| ❌已下线 | 快导航 - 简单的网址导航大全 | [https://wukandy.cn/](https://wukandy.cn/) |
+| ❌已下线 | 喵帕斯 - 喵帕斯导航页 | [http://naspro.cc/](http://naspro.cc/) |
+| ❌已下线 | tool - wxuegao | [http://tool.wxuegao.com/](http://tool.wxuegao.com/) |
+| ❌已下线 | 浮生论坛 \- 念念不忘，必有回响 | [浮生论坛 \- 念念不忘，必有回响](https://fusfun.club/cn/index.html) |
 ## License
 
 Copyright © 2017-2018 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
