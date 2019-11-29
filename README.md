@@ -82,6 +82,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | t.hiihi | [http://t.hiihi.cn/](http://t.hiihi.cn/) |
 | ✅已上线 | hytale导航 | [https://www.hytale-nav.com/](https://www.hytale-nav.com/) |
 | ✅已上线 |英阅导航 | [英阅网址导航](http://enreading.ishare20.net/) |
+| ✅已上线 |小猪猪导航 | [小猪猪导航](http://xzz11.xyz/cn/index.html) |
 | 🕗开发中 | zou0 | [http://www.zou0.com/cn/index.html](http://www.zou0.com/cn/index.html) |
 | 🕗开发中 | Matrix Navigation | [Matrix Navigation \-](https://navi.sh-oo.com/) |
 | 🕗开发中 | PMGEEK | [http://pmgeek.net/](http://pmgeek.net/) |
