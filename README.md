@@ -8,6 +8,12 @@ QQ群交流：304584722
 
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。如果你有任何疑问，可以通过个人网站[viggoz.com](http://viggoz.com)中的联系方式找到我，欢迎与我交流分享。
 
+欢迎加群一起学习交流技术
+---
+|个人微信号(viggo)|QQ交流群(304584722)|
+|--|--|
+|![](http://www.webstack.cc/assets/images/wechat_viggo.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|
+
 怎么用?
 ---
 你可以像我一样直接使用静态托管形式，如果你需要一个后台系统方便管理，可以参考下面的第二第三种解决方案：
