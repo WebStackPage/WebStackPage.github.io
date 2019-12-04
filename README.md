@@ -67,7 +67,6 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | 谢週五の导航站 | [谢週五の导航站 \- 5nav\.ml](https://5nav.ml/) |
 | ✅已上线 | 狼牌工作网址导航 | [https://www.volf.club/](https://www.volf.club/) |
 | ✅已上线 | 码灵导航 - 一个帮助开发者成长的程序员网址导航 | [https://nav.imaring.com/](https://nav.imaring.com/) |
-| ✅已上线 | GeekNav | [GeekNav](https://lxw.open356.com/) |
 | ✅已上线 | 币门 | [币门 \| 通向加密货币之门](https://www.bimen.com/) |
 | ✅已上线 | Azt's 导航网站 | [Azt's 导航网站 \| 这只是一个导航](https://bookmark.cwenyu.net/) |
 | ✅已上线 | moshuxv | [moshuxv\.xyz \| 网址导航](https://moshuxv.xyz/) |
