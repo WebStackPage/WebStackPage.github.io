@@ -1,6 +1,5 @@
-[➡️ www.webstack.cc](https://webstack.cc) - 网址导航
+# 感谢[viggo](http://viggoz.com)提供的源码,很不错的网址导航网站，也很实用，欢迎大家去给他star.[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)
 ===
-QQ群交流：304584722
 
 本项目这是一个**纯静态**的网址导航网站，内容均由[viggo](http://viggoz.com)收集并整理。项目基于bootstrap前端框架开发。
 
