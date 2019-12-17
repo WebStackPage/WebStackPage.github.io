@@ -96,6 +96,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 |有钱导航 | [有钱导航](http://www.youqiandaohang.com/) |
 | ✅已上线 |创意探手导航 | [创意探手导航](http://tans119.com/) |
 | ✅已上线 |126云导航 | [126云导航 \- 最好用的浏览器主页](http://www.126yun.cn//) |
+| ✅已上线 |qiqijiavip | [http://www.qiqijiavip.com](http://www.qiqijiavip.com) |
 | 🕗开发中 | zou0 | [http://www.zou0.com/cn/index.html](http://www.zou0.com/cn/index.html) |
 | 🕗开发中 | Matrix Navigation | [Matrix Navigation \-](https://navi.sh-oo.com/) |
 | 🕗开发中 | PMGEEK | [http://pmgeek.net/](http://pmgeek.net/) |
