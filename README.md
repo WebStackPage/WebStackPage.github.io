@@ -77,6 +77,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ✅已上线 | 卖家大全 - 最全卖家导航 | [http://maijiadaquan.com/](http://maijiadaquan.com/) |
 | ✅已上线 | 广告人导航 - 广告没门 | [https://adnodoor.com/nav/](https://adnodoor.com/nav/) |
 | ✅已上线 | 魔米导航 | [魔米导航 \- 精品网址导航](http://www.nmomi.com/) |
+| ✅已上线 | 互联网资源库房 | [库房369\-互联网资源库房 \-](https://kf369.cn/) |
 | ✅已上线 | 域名购买&域名商场&行业导航 | [http://www.yichushou.com/](http://www.yichushou.com/) |
 | ✅已上线 | 杏map | [http://xx-map.com/](http://xx-map.com/) |
 | ✅已上线 | DreamThere - 梦想导航 | [https://nav.dreamthere.com/](https://nav.dreamthere.com/) |
