@@ -31,9 +31,15 @@
     display: block;
     margin-right: 10px;
 }
-
+.xe-comment {
+    transform: translateY(-50%);
+    position: absolute;
+    margin-left: 50px;
+    top: 50%;
+}
 .xe-comment p {
     margin-bottom: 0px;
+    margin-right: 15px;
 }
 .overflowClip_1 {
     overflow: hidden;
@@ -54,4 +60,8 @@
 .submit-tag{
     margin-top: 50px;
 
+}
+
+.img-circle {
+    padding: 7px 0;
 }
