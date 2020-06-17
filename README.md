@@ -27,10 +27,7 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
 
-#### 方法3. WordPress 主题🔥(感谢 [@一为忆](https://www.iowen.cn/)提供)
-开源地址：https://github.com/owen0o0/WebStack
-
-教程：[WordPress 版 WebStack 导航主题使用说明 \| 一为忆](https://www.iowen.cn/wordpress-version-webstack/)
+#### 方法3.暂时屏蔽
 
 #### 方法4. 基于Java开发的后台系统🔥(感谢[@jsnjfz](https://github.com/jsnjfz)提供)
 开源地址：https://github.com/jsnjfz/WebStack-Guns
