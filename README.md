@@ -30,16 +30,24 @@ Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
 #### 方法3. Hexo主题  
 开源地址： https://github.com/HCLonely/hexo-theme-webstack
 
-#### 方法4. 基于Java开发的后台系统🔥(感谢[@jsnjfz](https://github.com/jsnjfz)提供)
+#### 方法4. Hugo主题  
+开源地址： https://github.com/iplaycode/webstack-hugo
+主题演示： https://iplaycode.github.io/nav/
+
+#### 方法5. 基于Java开发的后台系统🔥(感谢[@jsnjfz](https://github.com/jsnjfz)提供)
 开源地址：https://github.com/jsnjfz/WebStack-Guns
 
-#### 方法5. springboot后台 Nikati-WebStack-Guns ❤️ (感谢[Nikati \(Nikati\)](https://github.com/Nikati)提供)
+#### 方法6. springboot后台 Nikati-WebStack-Guns ❤️ (感谢[Nikati \(Nikati\)](https://github.com/Nikati)提供)
 开源地址：https://github.com/Nikati/WebStack-Guns-NKT
 
-#### 方法6. 使用 Jekyll 版本的后台🔥(感谢[@0xl2oot](https://github.com/0xl2oot)提供)
+#### 方法7.1 使用 Jekyll 版本的后台🔥(感谢[@0xl2oot](https://github.com/0xl2oot)提供)
 开源地址：[https://github.com/0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)
 
-#### 方法7. 使用Typecho主题🔥(感谢[@SEOGO](https://www.seogo.me/)提供)
+#### 方法7.2 从Chrome书签生成Jekyll版本配置的工具
+体验网址： https://w.hanxi.info/convert.html
+开源地址： https://github.com/hanxi/webstack-jekyll
+
+#### 方法8. 使用Typecho主题🔥(感谢[@SEOGO](https://www.seogo.me/)提供)
 开源地址：[https://www.seogo.me/muban/webstack.html](https://www.seogo.me/muban/webstack.html)
 
 #### 方法8. 自己写后台系统
