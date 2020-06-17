@@ -47,7 +47,11 @@ Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
 体验网址： https://w.hanxi.info/convert.html
 开源地址： https://github.com/hanxi/webstack-jekyll
 
-#### 方法8. 使用Typecho主题🔥(感谢[@SEOGO](https://www.seogo.me/)提供)
+#### 方法8.1 钻芒二开Typecho主题
+开源地址：https://www.zmki.cn/5366.html
+比较详细的安装教程：https://www.waoww.com/typecho-theme/zmki-webstack.html
+预览地址：https://tool.zmki.cn/
+#### 方法8.2 SEOGO二开Typecho主题
 开源地址：[https://www.seogo.me/muban/webstack.html](https://www.seogo.me/muban/webstack.html)
 
 #### 方法9. 静态博客Gridea主题 
