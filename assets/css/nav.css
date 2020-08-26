@@ -30,6 +30,7 @@
   float: left;
   display: block;
   margin-right: 10px;
+  border-radius: 10px;
 }
 
 .xe-comment {
