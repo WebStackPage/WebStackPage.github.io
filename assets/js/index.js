@@ -8,7 +8,7 @@ $.getJSON('data.json', function (data) {
       '<span class="title">' + cate['category'] + '</span>' +
       '</a>' +
       '</li>'
-    div_html += '<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="' + cate['category'] + '"></i>' + cate['category'] + '</h4>' +
+    div_html += '<h4 class="text-gray h4-margin"><i class="linecons-tag" style="margin-right: 7px;" id="' + cate['category'] + '"></i>' + cate['category'] + '</h4>' +
       '<div class="row">'
 
     cate['lists'].forEach(function (list) {
@@ -18,7 +18,7 @@ $.getJSON('data.json', function (data) {
           '<img src="../assets/images/icon/' + key + '.png">' +
           '</a>'
       })
-      div_html += '<div class="col-sm-3">' +
+      div_html += '<div class="col-sm-3 div-radius">' +
         '<div class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" title="">' +
         '<div class="xe-comment-entry">' +
         '<a class="xe-user-img">' +

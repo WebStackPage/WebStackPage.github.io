@@ -94,6 +94,10 @@
   color: #31ad79;
 }
 
+.logo h2{
+  margin-top: 0px;
+}
+
 .submit {
   position: absolute;
   left: 0;
@@ -120,4 +124,13 @@
 
 .main-pb{
   padding-bottom: 20px !important;
+}
+
+.h4-margin{
+  margin-top: 14px;
+  margin-bottom:-6px;
+}
+
+.div-radius .xe-conversations{
+  border-radius: 10px
 }
