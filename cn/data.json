@@ -27,14 +27,12 @@
     "category": "DeFi",
     "lists": [
       {
-        "name": "GrowFi",
+        "name": "UDTswap",
         "img_url": "growfi.png",
         "desc": "支持 UDT swap 的流动性池",
         "contacts": {
-          "web": "http://dev.growdrop.io/",
-          "twitter": "https://twitter.com/Grow_drop",
-          "telegram": "https://t.me/Growdrop",
-          "github": "https://github.com/bannplayer/Growdrop/tree/master"
+          "twitter": "https://twitter.com/UDTswap",
+          "github": "https://github.com/GrowFi-labs/UDTswap"
         }
       }
     ]
