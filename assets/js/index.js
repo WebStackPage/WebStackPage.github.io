@@ -42,10 +42,10 @@ $.getJSON('data.json', function (data) {
   $('#container').prepend(div_html);
 })
 
-window.addEventListener('load', function () {
-  var observer = lozad()
-  observer.observe()
-});
+// window.addEventListener('load', function () {
+//   var observer = lozad()
+//   observer.observe()
+// });
 
 $(document).ready(function () {
 
