@@ -117,3 +117,7 @@
 .languages{
   z-index: 1000 !important;
 }
+
+.main-pb{
+  padding-bottom: 20px !important;
+}

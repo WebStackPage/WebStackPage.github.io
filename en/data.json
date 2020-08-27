@@ -82,7 +82,7 @@
     ]
   },
   {
-    "category": "游戏",
+    "category": "游戏/应用",
     "lists": [
       {
         "name": "51wan",
@@ -90,6 +90,15 @@
         "desc": "中国顶级泛娱乐综合平台",
         "contacts": {
           "web": "http://www.51wan.com/"
+        }
+      },
+      {
+        "name": "Tocial",
+        "img_url": "tocial.jpg",
+        "desc": "最受欢迎的二次元图片社交分享平台",
+        "contacts": {
+          "web": "https://tocial.io/",
+          "twitter": "https://twitter.com/tocial_chat"
         }
       }
     ]
@@ -351,6 +360,49 @@
         "contacts": {
           "web": "https://www.nervos.org",
           "github": "https://github.com/nervosnetwork/neuron"
+        }
+      }
+    ]
+  },
+  {
+    "category": "合作伙伴",
+    "lists": [
+      {
+        "name": "Huobi 集团",
+        "img_url": "huobi.png",
+        "desc": "Huobi 集团是一家全球领先的区块链公司。目前，Huobi 正在与 Nervos 合作，打造 Huobi 金融公链（HFC）",
+        "contacts": {
+          "web": "https://www.huobi.com/",
+          "twitter": "https://twitter.com/HuobiGlobal",
+          "coingecko": "https://www.coingecko.com/zh/exchanges/huobi/"
+
+        }
+      },
+      {
+        "name": "BSN",
+        "img_url": "bsn.jpg",
+        "desc": "BSN 由国家信息中心、中国移动、中国银联和红枣科技等中国知名实体联合领导，旨在让开发者更容易地获得区块链的创新成果",
+        "contacts": {
+          "web": "https://global.bsnbase.com/",
+          "twitter": "https://twitter.com/bsnbase",
+          "telegram": "https://t.me/globalbsn"
+        }
+      },
+      {
+        "name": "招银国际",
+        "img_url": "zhaoyin.jpeg",
+        "desc": "招银国际（CMBI）是全球最大的银行之一，中国银行总资产排行前十，是 Nervos 的战略合作伙伴。",
+        "contacts": {
+          "web": "https://www.cmbi.com.hk"
+        }
+      },
+      {
+        "name": "秘猿科技",
+        "img_url": "miyuan.png",
+        "desc": "中国最好的区块链工程与研究团队，拥有 40+ 区块链开发者。",
+        "contacts": {
+          "web": "https://www.cryptape.com/",
+          "job": "https://www.cryptape.com/join"
         }
       }
     ]
