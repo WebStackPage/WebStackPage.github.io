@@ -65,7 +65,7 @@
     ]
   },
   {
-    "category": "隐私",
+    "category": "隐私/安全",
     "lists": [
       {
         "name": "Grin",
@@ -75,6 +75,16 @@
           "web": "https://grin.mw/",
           "twitter": "https://twitter.com/grinmw",
           "github": "https://github.com/mimblewimble/grin"
+        }
+      },
+      {
+        "name": "Trail of Bits",
+        "img_url": "trailbit.jpeg",
+        "desc": "Deepening the Science of Security",
+        "contacts": {
+          "web": "https://www.trailofbits.com/",
+          "twitter": "https://twitter.com/trailofbits",
+          "github": "https://github.com/trailofbits"
         }
       }
     ]
@@ -141,6 +151,20 @@
         "contacts": {
           "twitter": "https://twitter.com/Lay2dev",
           "github": "https://github.com/lay2dev/pw-core"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Muta 生态公链",
+    "lists": [
+      {
+        "name": "火币公链",
+        "img_url": "huobi.png",
+        "desc": "为各类金融资产提供高性能服务",
+        "contacts": {
+          "web": "https://www.huobichain.com/",
+          "github": "https://github.com/HuobiGroup/huobi-chain/"
         }
       }
     ]
