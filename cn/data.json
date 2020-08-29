@@ -86,6 +86,17 @@
           "twitter": "https://twitter.com/trailofbits",
           "github": "https://github.com/trailofbits"
         }
+      },
+      {
+        "name": "PeckShield",
+        "img_url": "peckshield.jpg",
+        "desc": "业界领先的区块链安全公司",
+        "contacts": {
+          "web": "https://peckshield.cn/",
+          "twitter": "https://twitter.com/peckshield",
+          "telegram": "https://t.me/peckshield",
+          "github": "https://github.com/peckshield"
+        }
       }
     ]
   },
