@@ -1,6 +1,8 @@
 [
   {
     "category": "Explorer",
+    "width": 20,
+    "index": 1,
     "lists": [
       {
         "name": "CKB explorer",
@@ -25,6 +27,8 @@
   },
   {
     "category": "DeFi",
+    "width": 18,
+    "index": 3,
     "lists": [
       {
         "name": "UDTswap",
@@ -39,6 +43,8 @@
   },
   {
     "category": "Oracle",
+    "width": 19,
+    "index": 2,
     "lists": [
       {
         "name": "ChainLink",
@@ -66,6 +72,8 @@
   },
   {
     "category": "Privacy/Safety",
+    "width": 25,
+    "index": 4,
     "lists": [
       {
         "name": "Grin",
@@ -102,6 +110,8 @@
   },
   {
     "category": "Applications",
+    "width": 12,
+    "index": 20,
     "lists": [
       {
         "name": "51wan",
@@ -124,7 +134,18 @@
   },
   {
     "category": "Layer 2",
+    "width": 32,
+    "index": 5,
     "lists": [
+      {
+        "name": "Hxro",
+        "img_url": "hxro.jpg",
+        "desc": "Peer to peer markets on crypto, commodities, indices and FX",
+        "contacts": {
+          "web": "https://hxro.io/",
+          "twitter": "https://twitter.com/RealHxro"
+        }
+      },
       {
         "name": "MUTA",
         "img_url": "muta-logo.png",
@@ -168,6 +189,8 @@
   },
   {
     "category": "Muta Chain",
+    "width": 17,
+    "index": 6,
     "lists": [
       {
         "name": "Huobi Chain",
@@ -182,6 +205,8 @@
   },
   {
     "category": "Developer Tools",
+    "width": 37,
+    "index": 15,
     "lists": [
       {
         "name": "Mandrake",
@@ -260,6 +285,8 @@
   },
   {
     "category": "Wallet",
+    "width": 50,
+    "index": 10,
     "lists": [
       {
         "name": "PORTAL WALLET",
@@ -399,6 +426,8 @@
   },
   {
     "category": "Partners",
+    "width": 40,
+    "index": 8,
     "lists": [
       {
         "name": "Huobi Group",

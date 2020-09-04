@@ -1,6 +1,8 @@
 [
   {
     "category": "浏览器",
+    "width": 19,
+    "index": 1,
     "lists": [
       {
         "name": "CKB 浏览器",
@@ -25,6 +27,8 @@
   },
   {
     "category": "DeFi",
+    "width": 19,
+    "index": 3,
     "lists": [
       {
         "name": "UDTswap",
@@ -39,6 +43,8 @@
   },
   {
     "category": "预言机",
+    "width": 19,
+    "index": 2,
     "lists": [
       {
         "name": "ChainLink",
@@ -66,6 +72,8 @@
   },
   {
     "category": "隐私/安全",
+    "width": 25,
+    "index": 4,
     "lists": [
       {
         "name": "Grin",
@@ -80,7 +88,7 @@
       {
         "name": "Trail of Bits",
         "img_url": "trailbit.jpeg",
-        "desc": "Deepening the Science of Security",
+        "desc": "智能合约审计机构",
         "contacts": {
           "web": "https://www.trailofbits.com/",
           "twitter": "https://twitter.com/trailofbits",
@@ -102,6 +110,8 @@
   },
   {
     "category": "游戏/应用",
+    "width": 15,
+    "index": 6,
     "lists": [
       {
         "name": "51wan",
@@ -124,7 +134,18 @@
   },
   {
     "category": "Layer2",
+    "width": 32,
+    "index": 5,
     "lists": [
+      {
+        "name": "Hxro",
+        "img_url": "hxro.jpg",
+        "desc": "Hxro 是一个为用户提供全新创新市场玩法的游戏化加密交易平台",
+        "contacts": {
+          "web": "https://hxro.io/",
+          "twitter": "https://twitter.com/RealHxro"
+        }
+      },
       {
         "name": "MUTA",
         "img_url": "muta-logo.png",
@@ -168,6 +189,8 @@
   },
   {
     "category": "Muta 生态公链",
+    "width": 12,
+    "index": 7,
     "lists": [
       {
         "name": "火币公链",
@@ -182,6 +205,8 @@
   },
   {
     "category": "开发工具",
+    "width": 46,
+    "index": 10,
     "lists": [
       {
         "name": "Mandrake",
@@ -220,7 +245,7 @@
       {
         "name": "Nervos IDE",
         "img_url": "ide.png",
-        "desc": "Nervos IDE CKB-Studio",
+        "desc": "Nervos IDE CKB-Studio编辑器",
         "contacts": {
           "web": "https://www.obsidians.io/",
           "twitter": "https://twitter.com/obsidian_labs",
@@ -260,11 +285,13 @@
   },
   {
     "category": "钱包",
+    "width": 53,
+    "index": 15,
     "lists": [
       {
         "name": "PORTAL WALLET",
         "img_url": "portal.png",
-        "desc": "The Portal from the Internet to Crypto World",
+        "desc": "CKB 连接世界的入口",
         "contacts": {
           "web": "https://ckb.pw/",
           "twitter": "https://twitter.com/Lay2dev",
@@ -399,6 +426,8 @@
   },
   {
     "category": "合作伙伴",
+    "width": 30,
+    "index": 8,
     "lists": [
       {
         "name": "Huobi 集团",

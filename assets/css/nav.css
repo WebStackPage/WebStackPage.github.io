@@ -134,3 +134,14 @@
 .div-radius .xe-conversations{
   border-radius: 10px
 }
+
+.img-div {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.img-div img{
+  border-radius: 30px;
+  margin-right: 5px;
+}
