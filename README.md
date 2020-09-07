@@ -8,7 +8,7 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 下面提供了多种主题及后台版本供大家选择，感谢各位GitHub网友无私贡献🙏，具体各版本后台使用方法请查看对应的开源说明文档！
 
-注意⚠️：以下webstack所有项目均为开源项目，webstack没有任何Pro版本或者专业版本！
+注意⚠️：以下webstack所有项目均为开源项目，webstack没有任何Pro版本或专业版本！
 
 ![](http://www.webstack.cc/assets/images/preview.gif)
 
