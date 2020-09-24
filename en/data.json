@@ -38,6 +38,16 @@
           "twitter": "https://twitter.com/UDTswap",
           "github": "https://github.com/GrowFi-labs/UDTswap"
         }
+      },
+      {
+        "name": "Linear Finance",
+        "img_url": "linear.jpg",
+        "desc": "A cross-chain compatible, decentralized delta-one asset protocol to cost-effectively and instantly create, manage, and trade synthetic assets with unlimited liquidity",
+        "contacts": {
+          "web": "https://linear.finance/",
+          "twitter": "https://twitter.com/LinearFinance",
+          "telegram": "https://t.me/joinchat/Tb3iAhuMZsyfspxhEWQLvw"
+        }
       }
     ]
   },

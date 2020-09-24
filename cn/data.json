@@ -38,6 +38,16 @@
           "twitter": "https://twitter.com/UDTswap",
           "github": "https://github.com/GrowFi-labs/UDTswap"
         }
+      },
+      {
+        "name": "Linear Finance",
+        "img_url": "linear.jpg",
+        "desc": "跨链兼容，分散式的delta-one资产协议",
+        "contacts": {
+          "web": "https://linear.finance/",
+          "twitter": "https://twitter.com/LinearFinance",
+          "telegram": "https://t.me/joinchat/Tb3iAhuMZsyfspxhEWQLvw"
+        }
       }
     ]
   },
