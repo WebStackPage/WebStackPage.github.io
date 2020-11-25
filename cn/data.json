@@ -485,6 +485,17 @@
           "web": "https://www.theta.tv/",
           "twitter": "https://twitter.com/THETAtv"
         }
+      },
+      {
+        "name": "Morpheus Labs",
+        "img_url": "morpheuslabs.png",
+        "desc": "Morpheus Labs 为企业和开发者提供了工具、基础设施、各种区块链协议和区块链用例。",
+        "contacts": {
+          "web": "https://morpheuslabs.io/",
+          "twitter": "https://twitter.com/morpheuslabs_io",
+          "github": "https://github.com/Morpheuslabs-io",
+          "telegram": "https://t.me/morpheuslabs"
+        }
       }
     ]
   }

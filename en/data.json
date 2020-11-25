@@ -484,6 +484,17 @@
           "web": "https://www.theta.tv/",
           "twitter": "https://twitter.com/THETAtv"
         }
+      },
+      {
+        "name": "Morpheus Labs",
+        "img_url": "morpheuslabs.png",
+        "desc": "POWER BLOCKCHAIN WORLDWIDE。",
+        "contacts": {
+          "web": "https://morpheuslabs.io/",
+          "twitter": "https://twitter.com/morpheuslabs_io",
+          "github": "https://github.com/Morpheuslabs-io",
+          "telegram": "https://t.me/morpheuslabs"
+        }
       }
     ]
   }
