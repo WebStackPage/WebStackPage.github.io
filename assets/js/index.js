@@ -22,7 +22,7 @@ $.getJSON('data.json', function (data) {
         '<div class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" title="">' +
         '<div class="xe-comment-entry">' +
         '<a class="xe-user-img">' +
-        '<img src="http://img.daohangtv.com/image/logos/' + list['img_url'] + '" width="72">' +
+        '<img src="/assets/images/logos/' + list['img_url'] + '" width="72">' +
         '</a>' +
         '<div class="xe-comment">' +
         '<a href="#" class="xe-user-name overflowClip_1">' +

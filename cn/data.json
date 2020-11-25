@@ -476,6 +476,15 @@
           "web": "https://www.cryptape.com/",
           "job": "https://www.cryptape.com/join"
         }
+      },
+      {
+        "name": "THETA.tv",
+        "img_url": "thetatv.png",
+        "desc": "由 Theta Network 提供运营支持，为全球加密社区带来独家的视频直播内容。领先的去中心化流媒体平台。",
+        "contacts": {
+          "web": "https://www.theta.tv/",
+          "twitter": "https://twitter.com/THETAtv"
+        }
       }
     ]
   }

@@ -475,6 +475,15 @@
           "web": "https://www.cryptape.com/",
           "job": "https://www.cryptape.com/join"
         }
+      },
+      {
+        "name": "THETA.tv",
+        "img_url": "thetatv.png",
+        "desc": "Watch LIVE Streams, Earn TFuel, and support Streamers。",
+        "contacts": {
+          "web": "https://www.theta.tv/",
+          "twitter": "https://twitter.com/THETAtv"
+        }
       }
     ]
   }
