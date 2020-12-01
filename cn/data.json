@@ -121,7 +121,7 @@
   {
     "category": "游戏/应用",
     "width": 15,
-    "index": 6,
+    "index": 8,
     "lists": [
       {
         "name": "51wan",
@@ -284,7 +284,7 @@
         }
       },
       {
-        "name": "Browser Wallet and Keyper Agency",
+        "name": "Synapse Extension",
         "img_url": "default.png",
         "desc": "CKB 的网页端钱包和密钥代理",
         "contacts": {
@@ -437,7 +437,7 @@
   {
     "category": "合作伙伴",
     "width": 30,
-    "index": 8,
+    "index": 6,
     "lists": [
       {
         "name": "Huobi 集团",

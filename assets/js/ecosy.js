@@ -1,28 +1,36 @@
 $.getJSON('cn/data.json', function (data) {
   ul_html = '';
-  div_html = ''
+  div_html = '<div class="col-sm-3">'
+    size = 0
 
   sortByKeyAsc(data, 'index').forEach(function (cate) {
     images = ''
     cate['lists'].forEach(function (list) {
       images += '<div class="img-div">' +
-        '<img src="http://img.daohangtv.com/image/logos/' + list['img_url'] + '" width="36">' +
+        '<img src="/assets/images/logos/' + list['img_url'] + '" width="36">' +
         '<span>' + list['name'] + '</span>' +
         '</div>'
     })
     div_html +=
-      '<div class="col-sm-12" style="width:' + cate['width'] + '%">' +
-        '<div class="panel panel-default">' +
+        '<div class="">' +
           '<div class="panel-heading">' +
               cate['category'] +
           '</div>' +
           '<div class="panel-body">' +
-    images +
+            images +
           '</div>' +
-        '</div>' +
-    '</div>'
+          '</div>'
+
+    size = size + cate['lists'].length;
+    console.log(size)
+    if(size >= 8){
+      // console.log(size)
+      div_html += '</div><div class="col-sm-3">'
+      size = 0
+    }
   })
-  $('.main-content').append(div_html);
+  div_html = div_html + '</div>'
+  $('#project_contain').append(div_html);
 });
 
 function sortByKeyAsc(array, key) {
