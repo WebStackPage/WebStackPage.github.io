@@ -1,4 +1,4 @@
-$.getJSON('cn/data.json', function (data) {
+$.getJSON('en/data.json', function (data) {
   ul_html = '';
   div_html = '<div class="col-sm-3">'
     size = 0
