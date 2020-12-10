@@ -48,6 +48,15 @@
           "twitter": "https://twitter.com/LinearFinance",
           "telegram": "https://t.me/joinchat/Tb3iAhuMZsyfspxhEWQLvw"
         }
+      },
+      {
+        "name": "HUSD",
+        "img_url": "husd.jpg",
+        "desc": "HUSD 是由 Stable Universal 发行的合规稳定币，与美元 1:1 锚定。",
+        "contacts": {
+          "web": "http://stcoins.com/",
+          "twitter": "https://twitter.com/Stablecoin_HUSD"
+        }
       }
     ]
   },
@@ -495,6 +504,54 @@
           "twitter": "https://twitter.com/morpheuslabs_io",
           "github": "https://github.com/Morpheuslabs-io",
           "telegram": "https://t.me/morpheuslabs"
+        }
+      },
+      {
+        "name": "Arweave",
+        "img_url": "arweave.jpg",
+        "desc": "Arweave 是一种新型的存储方式，用户可以永久地存储文件和应用程序。",
+        "contacts": {
+          "web": "https://www.arweave.org/",
+          "twitter": "https://twitter.com/ArweaveTeam"
+        }
+      }
+    ]
+  },
+  {
+    "category": "社区",
+    "width": 40,
+    "index": 6,
+    "lists": [
+      {
+        "name": "Ckb Bar",
+        "img_url": "ckb_bar.png",
+        "desc": "CKB币吧 - 真正具有价值及影响力的CKB(Nervos Network)中文社区。",
+        "contacts": {
+          "web": "https://ckb.bihu.com/"
+        }
+      },
+      {
+        "name": "Nervos Community",
+        "img_url": "community.JPG",
+        "desc": "这里是Nervos Community，一切为了更好的Nervos，更好的世界。",
+        "contacts": {
+          "web": "http://mp.weixin.qq.com/profile?src=3&timestamp=1607596138&ver=1&signature=OwN4CWZZ7EKRMOvY9h6yedqBhVGWegXdZOjpJB36kkogzvebxrINgzTfKWRy-RSUKXBU-Wg8QSp1VLdiO-NSfg=="
+        }
+      },
+      {
+        "name": "CKB fans",
+        "img_url": "ckbfans.JPG",
+        "desc": "CKB die-hard fans的集结号。",
+        "contacts": {
+          "web": "http://mp.weixin.qq.com/profile?src=3&timestamp=1607596114&ver=1&signature=46XkqafAyvwHT3wDku3KPshFLkhqybJaydpxvj*OAiUVczNA8DcGrVY5*CUoKKgsLJqGt92aR-fHChiWqwgCfQ=="
+        }
+      },
+      {
+        "name": "Nervos Nation",
+        "img_url": "nervos_nation.jpg",
+        "desc": "Nervos CKB播客，由Lionschain Capital的合伙人Jonathan Caras和Michael Hasson创立。",
+        "contacts": {
+          "web": "https://www.stitcher.com/show/nervos-nation"
         }
       }
     ]
