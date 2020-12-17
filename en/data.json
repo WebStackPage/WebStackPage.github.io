@@ -515,9 +515,9 @@
         }
       },
       {
-        "name": "Input Output",
+        "name": "IOHK",
         "img_url": "input.jpg",
-        "desc": "Input Output is a research and development company committed to using the peer-to-peer innovations of blockchain to build accessible financial services for all.",
+        "desc": "IOHK is a research and development company committed to using the peer-to-peer innovations of blockchain to build accessible financial services for all.",
         "contacts": {
           "web": "https://iohk.io/",
           "github": "https://github.com/input-output-hk",
