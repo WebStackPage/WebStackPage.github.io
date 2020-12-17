@@ -23,7 +23,7 @@ $.getJSON('en/data.json', function (data) {
 
     size = size + cate['lists'].length;
     console.log(size)
-    if(size >= 8){
+    if(size >= 11){
       // console.log(size)
       div_html += '</div><div class="col-sm-3">'
       size = 0

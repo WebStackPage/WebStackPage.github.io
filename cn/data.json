@@ -6,7 +6,7 @@
     "lists": [
       {
         "name": "CKB 浏览器",
-        "img_url": "explore.ico",
+        "img_url": "explore.jpg",
         "desc": "CKB 官方浏览器",
         "contacts": {
           "web": "https://explorer.nervos.org",

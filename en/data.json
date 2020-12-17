@@ -6,7 +6,7 @@
     "lists": [
       {
         "name": "CKB explorer",
-        "img_url": "explore.ico",
+        "img_url": "explore.jpg",
         "desc": "CKB explorer",
         "contacts": {
           "web": "https://explorer.nervos.org",
@@ -130,7 +130,7 @@
   {
     "category": "Applications",
     "width": 12,
-    "index": 8,
+    "index": 20,
     "lists": [
       {
         "name": "51wan",
@@ -209,7 +209,7 @@
   {
     "category": "Muta Chain",
     "width": 17,
-    "index": 7,
+    "index": 4,
     "lists": [
       {
         "name": "Huobi Chain",
@@ -529,7 +529,7 @@
   {
     "category": "Community",
     "width": 40,
-    "index": 20,
+    "index": 14,
     "lists": [
       {
         "name": "Ckb Bar",
