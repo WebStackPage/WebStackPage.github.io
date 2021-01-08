@@ -57,7 +57,17 @@
           "web": "http://stcoins.com/",
           "twitter": "https://twitter.com/Stablecoin_HUSD"
         }
+      },
+      {
+        "name": "Gliaswap",
+        "img_url": "gliaswap.png",
+        "desc": "Gilaswap 是一个建立在 Nervos 的 Layer 2 上的示范性项目，展示了 Nervos 生态和互操作性 2.0 巨大的潜力。",
+        "contacts": {
+          "web": "https://gliaswap.ckbapp.dev/",
+          "github": "https://github.com/glias/"
+        }
       }
+
     ]
   },
   {
@@ -298,6 +308,21 @@
         "desc": "CKB 的网页端钱包和密钥代理",
         "contacts": {
           "github": "https://github.com/rebase-network/synapse-extension"
+        }
+      },{
+        "name": "Force Bridge ETH",
+        "img_url": "default.png",
+        "desc": "跨链协议 Force Bridge ETH，让以太坊上的 dApp 和用户接入 CKB",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/force-bridge-eth"
+        }
+      },
+      {
+        "name": "Force Bridge BTC",
+        "img_url": "default.png",
+        "desc": "跨链协议 Force Bridge BTC",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/force-bridge-btc"
         }
       }
     ]

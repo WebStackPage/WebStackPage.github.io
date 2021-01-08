@@ -57,6 +57,15 @@
           "web": "http://stcoins.com/",
           "twitter": "https://twitter.com/Stablecoin_HUSD"
         }
+      },
+      {
+        "name": "Gliaswap",
+        "img_url": "gliaswap.png",
+        "desc": "A cross-chain decentralized exchange developed by Nervos team.",
+        "contacts": {
+          "web": "https://gliaswap.ckbapp.dev/",
+          "github": "https://github.com/glias/"
+        }
       }
     ]
   },
@@ -298,6 +307,21 @@
         "desc": "browser wallet and keyper agency",
         "contacts": {
           "github": "https://github.com/rebase-network/synapse-extension"
+        }
+      },      {
+        "name": "Force Bridge ETH",
+        "img_url": "default.png",
+        "desc": "Force bridge is a bridge which connects CKB with other blockchain systems( aka cross-chain protocol ).",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/force-bridge-eth"
+        }
+      },
+      {
+        "name": "Force Bridge BTC",
+        "img_url": "default.png",
+        "desc": "The BTC component of force bridge, maps BTC on Bitcoin to cBTC on CKB in a trustless way.",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/force-bridge-btc"
         }
       }
     ]
