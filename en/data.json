@@ -547,6 +547,16 @@
           "github": "https://github.com/input-output-hk",
           "twitter": "https://twitter.com/inputoutputHK"
         }
+      },
+      {
+        "name": "Messari Registry",
+        "img_url": "messari_icon.png",
+        "desc": "Providing the top research, news, metrics and live data for crypto.",
+        "contacts": {
+          "web": "https://messari.io/",
+          "telegram": "https://t.me/messaricrypto",
+          "twitter": "https://twitter.com/MessariCrypto"
+        }
       }
     ]
   },

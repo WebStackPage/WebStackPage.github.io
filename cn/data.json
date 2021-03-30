@@ -549,6 +549,16 @@
           "github": "https://github.com/input-output-hk",
           "twitter": "https://twitter.com/inputoutputHK"
         }
+      },
+      {
+        "name": "Messari Registry",
+        "img_url": "messari_icon.png",
+        "desc": "全球知名区块链数据提供商，致力于成为行业开源信息披露存储中心，为用户提供可免费访问的可信项目信息。",
+        "contacts": {
+          "web": "https://messari.io/",
+          "telegram": "https://t.me/messaricrypto",
+          "twitter": "https://twitter.com/MessariCrypto"
+        }
       }
     ]
   },
