@@ -71,6 +71,22 @@
     ]
   },
   {
+    "category": "NFT",
+    "width": 19,
+    "index": 2,
+    "lists": [
+      {
+        "name": "IAMM",
+        "img_url": "iamm.jpg",
+        "desc": "IAMM 协议致力于让去中心化的数字商品成为网络的原生要素。",
+        "contacts": {
+          "web": "https://iamm.network/",
+          "twitter": "https://twitter.com/IAMM_Network"
+        }
+      }
+    ]
+  },
+  {
     "category": "预言机",
     "width": 19,
     "index": 2,

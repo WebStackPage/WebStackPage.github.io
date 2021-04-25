@@ -70,6 +70,22 @@
     ]
   },
   {
+    "category": "NFT",
+    "width": 19,
+    "index": 2,
+    "lists": [
+      {
+        "name": "IAMM",
+        "img_url": "iamm.jpg",
+        "desc": "Liberating the creator economy. ",
+        "contacts": {
+          "web": "https://iamm.network/",
+          "twitter": "https://twitter.com/IAMM_Network"
+        }
+      }
+    ]
+  },
+  {
     "category": "Oracle",
     "width": 19,
     "index": 2,
