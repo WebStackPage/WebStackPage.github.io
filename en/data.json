@@ -66,6 +66,14 @@
           "web": "https://gliaswap.ckbapp.dev/",
           "github": "https://github.com/glias/"
         }
+      },
+      {
+        "name": "USDC",
+        "img_url": "usdc.png",
+        "desc": "USDC是Circle和Coinbase为带来的稳定币，一个开源，基于智能合约的稳定币。",
+        "contacts": {
+          "web": "https://www.centre.io/usdc"
+        }
       }
     ]
   },
@@ -81,6 +89,26 @@
         "contacts": {
           "web": "https://iamm.network/",
           "twitter": "https://twitter.com/IAMM_Network"
+        }
+      },
+      {
+        "name": "Golden Legend",
+        "img_url": "jinse.png",
+        "desc": "Blockchain-based one-stop platform for NFT creation and distribution.",
+        "contacts": {
+          "web": "https://jinse.nervina.cn/en",
+          "twitter": "https://twitter.com/NervinaLabs",
+          "email": "mailto:contact@nervina.io"
+        }
+      },
+      {
+        "name": "StartFi",
+        "img_url": "startfi.jpg",
+        "desc": "Create NFT, Raise Fund, & Issue your Fan Token.",
+        "contacts": {
+          "web": "http://startfi.io/",
+          "twitter": "https://twitter.com/StartFinance",
+          "telegram": "https://t.co/A6Cny4udTm?amp=1"
         }
       }
     ]
@@ -157,6 +185,18 @@
     "width": 12,
     "index": 20,
     "lists": [
+      {
+        "name": "Das",
+        "img_url": "das.jpg",
+        "desc": "DAS, Decentralized Account Systems.",
+        "contacts": {
+          "web": "https://da.systems/",
+          "twitter": "https://twitter.com/realDASystems",
+          "github": "https://github.com/DeAccountSystems",
+          "telegram": "https://t.me/DASystemsNews"
+
+        }
+      },
       {
         "name": "51wan",
         "img_url": "51wan.png",
@@ -338,6 +378,24 @@
         "desc": "The BTC component of force bridge, maps BTC on Bitcoin to cBTC on CKB in a trustless way.",
         "contacts": {
           "github": "https://github.com/nervosnetwork/force-bridge-btc"
+        }
+      },
+      {
+        "name": "TIPPY",
+        "img_url": "tippy.png",
+        "desc": "Tippy is a sandbox development environment for Nervos CKB developers",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/tippy"
+        }
+      },
+      {
+        "name": "MUKN",
+        "img_url": "mukn.jpg",
+        "desc": "Our language Glow—a JavaScript for Blockchain —makes it 𝗺𝘂𝗰𝗵 simpler, cheaper and 𝘀𝗮𝗳𝗲𝗿 to write 𝗮𝗻𝗱 𝗮𝘂𝗱𝗶𝘁 Decentralized Applications (DApps).",
+        "contacts": {
+          "web": "https://mukn.io/",
+          "twitter": "https://twitter.com/MutualKnowledge",
+          "telegram": "https://t.me/mukn_io"
         }
       }
     ]
@@ -573,7 +631,27 @@
           "telegram": "https://t.me/messaricrypto",
           "twitter": "https://twitter.com/MessariCrypto"
         }
+      },
+      {
+        "name": "Poolz",
+        "img_url": "poolz.png",
+        "desc": "Poolz is a decentralized cross-chain IDO platform, built on top of Web 3.0 network.",
+        "contacts": {
+          "web": "https://www.poolz.finance/",
+          "telegram": "https://t.me/PoolzOfficialCommunity",
+          "twitter": "https://twitter.com/Poolz__"
+        }
+      },
+      {
+        "name": "Opera",
+        "img_url": "opera.png",
+        "desc": "Opera, the world's first browser supporting Web3.0",
+        "contacts": {
+          "web": "https://www.opera.com/",
+          "twitter": "https://twitter.com/opera"
+        }
       }
+
     ]
   },
   {

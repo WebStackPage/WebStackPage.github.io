@@ -66,6 +66,14 @@
           "web": "https://gliaswap.ckbapp.dev/",
           "github": "https://github.com/glias/"
         }
+      },
+      {
+        "name": "USDC",
+        "img_url": "usdc.png",
+        "desc": "USDC is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis.",
+        "contacts": {
+          "web": "https://www.centre.io/usdc"
+        }
       }
 
     ]
@@ -82,6 +90,26 @@
         "contacts": {
           "web": "https://iamm.network/",
           "twitter": "https://twitter.com/IAMM_Network"
+        }
+      },
+      {
+        "name": "金色传说",
+        "img_url": "jinse.png",
+        "desc": "基于区块链的秘宝创作和发行一站式平台.",
+        "contacts": {
+          "web": "https://jinse.nervina.cn",
+          "twitter": "https://twitter.com/NervinaLabs",
+          "email": "mailto:contact@nervina.io"
+        }
+      },
+      {
+        "name": "StartFi",
+        "img_url": "startfi.jpg",
+        "desc": "Create NFT, Raise Fund, & Issue your Fan Token.",
+        "contacts": {
+          "web": "http://startfi.io/",
+          "twitter": "https://twitter.com/StartFinance",
+          "telegram": "https://t.co/A6Cny4udTm?amp=1"
         }
       }
     ]
@@ -158,6 +186,18 @@
     "width": 15,
     "index": 8,
     "lists": [
+      {
+        "name": "Das",
+        "img_url": "das.jpg",
+        "desc": "面向未来的，去中心化账户系统",
+        "contacts": {
+          "web": "https://da.systems/",
+          "twitter": "https://twitter.com/realDASystems",
+          "github": "https://github.com/DeAccountSystems",
+          "telegram": "https://t.me/DASystemsNews"
+
+        }
+      },
       {
         "name": "51wan",
         "img_url": "51wan.png",
@@ -339,6 +379,24 @@
         "desc": "跨链协议 Force Bridge BTC",
         "contacts": {
           "github": "https://github.com/nervosnetwork/force-bridge-btc"
+        }
+      },
+      {
+        "name": "TIPPY",
+        "img_url": "tippy.png",
+        "desc": "Tippy 是一个提供给 Nervos CKB 开发者的沙盒开发环境。",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/tippy"
+        }
+      },
+      {
+        "name": "MUKN",
+        "img_url": "mukn.jpg",
+        "desc": "在Nervos 上实现安全部署新智能合约的功能，类似于以太坊上的智能合约",
+        "contacts": {
+          "web": "https://mukn.io/",
+          "twitter": "https://twitter.com/MutualKnowledge",
+          "telegram": "https://t.me/mukn_io"
         }
       }
     ]
@@ -574,6 +632,25 @@
           "web": "https://messari.io/",
           "telegram": "https://t.me/messaricrypto",
           "twitter": "https://twitter.com/MessariCrypto"
+        }
+      },
+      {
+        "name": "Poolz",
+        "img_url": "poolz.png",
+        "desc": "Poolz 是一个去中心化的跨链 IDO 平台.",
+        "contacts": {
+          "web": "https://www.poolz.finance/",
+          "telegram": "https://t.me/PoolzOfficialCommunity",
+          "twitter": "https://twitter.com/Poolz__"
+        }
+      },
+      {
+        "name": "Opera",
+        "img_url": "opera.png",
+        "desc": "世界上首个支持 Web 3 功能的浏览器 Opera.",
+        "contacts": {
+          "web": "https://www.opera.com/",
+          "twitter": "https://twitter.com/opera"
         }
       }
     ]
