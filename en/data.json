@@ -650,6 +650,17 @@
           "web": "https://www.opera.com/",
           "twitter": "https://twitter.com/opera"
         }
+      },
+      {
+        "name": "Gitcoin",
+        "img_url": "gitcoin.png",
+        "desc": "Gitcoin is where communities unite to build and fund the open web.",
+        "contacts": {
+          "web": "https://gitcoin.co/",
+          "twitter": "https://twitter.com/gitcoin",
+          "github": "https://github.com/gitcoinco/",
+          "email": "mailto:support@gitcoin.co"
+        }
       }
 
     ]

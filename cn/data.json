@@ -652,6 +652,17 @@
           "web": "https://www.opera.com/",
           "twitter": "https://twitter.com/opera"
         }
+      },
+      {
+        "name": "Gitcoin",
+        "img_url": "gitcoin.png",
+        "desc": "Gitcoin 是知名的开源软件资助平台，它为那些正在寻找合适的开源项目以便做出贡献的开发者们提供了获得激励的机会.",
+        "contacts": {
+          "web": "https://gitcoin.co/",
+          "twitter": "https://twitter.com/gitcoin",
+          "github": "https://github.com/gitcoinco/",
+          "email": "mailto:support@gitcoin.co"
+        }
       }
     ]
   },
