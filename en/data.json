@@ -74,6 +74,14 @@
         "contacts": {
           "web": "https://www.centre.io/usdc"
         }
+      },
+      {
+        "name": "YokaiSwap",
+        "img_url": "yokai.jpg",
+        "desc": "A new decentralized exchange.",
+        "contacts": {
+          "twitter": "https://twitter.com/yokaiswap"
+        }
       }
     ]
   },
