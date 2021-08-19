@@ -82,6 +82,14 @@
         "contacts": {
           "twitter": "https://twitter.com/yokaiswap"
         }
+      },
+      {
+        "name": "NexisDAO",
+        "img_url": "nexisdao.ico",
+        "desc": "A smarter, more efficient and transparent stable coin portocol on Nervos.",
+        "contacts": {
+          "web": "https://nexisdao.com/"
+        }
       }
     ]
   },

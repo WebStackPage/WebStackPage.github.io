@@ -82,6 +82,14 @@
         "contacts": {
           "twitter": "https://twitter.com/yokaiswap"
         }
+      },
+      {
+        "name": "NexisDAO",
+        "img_url": "nexisdao.ico",
+        "desc": "Nervos 上更智能更高效更透明的稳定币协议.",
+        "contacts": {
+          "web": "https://nexisdao.com/"
+        }
       }
 
     ]
