@@ -31,12 +31,19 @@
     "index": 3,
     "lists": [
       {
-        "name": "UDTswap",
-        "img_url": "growfi.png",
-        "desc": "liquidity pool supporting User Defined Token swap",
+        "name": "YokaiSwap",
+        "img_url": "yokai.jpg",
+        "desc": "A new decentralized exchange.",
         "contacts": {
-          "twitter": "https://twitter.com/UDTswap",
-          "github": "https://github.com/GrowFi-labs/UDTswap"
+          "twitter": "https://twitter.com/yokaiswap"
+        }
+      },
+      {
+        "name": "NexisDAO",
+        "img_url": "nexisdao.ico",
+        "desc": "A smarter, more efficient and transparent stable coin portocol on Nervos.",
+        "contacts": {
+          "web": "https://nexisdao.com/"
         }
       },
       {
@@ -73,22 +80,6 @@
         "desc": "USDC是Circle和Coinbase为带来的稳定币，一个开源，基于智能合约的稳定币。",
         "contacts": {
           "web": "https://www.centre.io/usdc"
-        }
-      },
-      {
-        "name": "YokaiSwap",
-        "img_url": "yokai.jpg",
-        "desc": "A new decentralized exchange.",
-        "contacts": {
-          "twitter": "https://twitter.com/yokaiswap"
-        }
-      },
-      {
-        "name": "NexisDAO",
-        "img_url": "nexisdao.ico",
-        "desc": "A smarter, more efficient and transparent stable coin portocol on Nervos.",
-        "contacts": {
-          "web": "https://nexisdao.com/"
         }
       }
     ]
