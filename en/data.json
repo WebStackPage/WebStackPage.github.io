@@ -35,6 +35,7 @@
         "img_url": "yokai.jpg",
         "desc": "A new decentralized exchange.",
         "contacts": {
+          "web": "https://dev.yokaiswap.com/",
           "twitter": "https://twitter.com/yokaiswap"
         }
       },
