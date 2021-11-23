@@ -44,7 +44,8 @@
         "img_url": "nexisdao.ico",
         "desc": "Nervos 上更智能更高效更透明的稳定币协议.",
         "contacts": {
-          "web": "https://nexisdao.com/"
+          "web": "https://nexisdao.com/",
+          "github": "https://github.com/NexisDao"
         }
       },
       {
@@ -194,6 +195,15 @@
     "index": 8,
     "lists": [
       {
+        "name": "UniPass",
+        "img_url": "unipass.jpg",
+        "desc": "支持多链通向加密世界和元宇宙的通用护照",
+        "contacts": {
+          "web": "https://www.unipass.id/",
+          "twitter": "https://twitter.com/UniPassID"
+        }
+      },
+      {
         "name": "Das",
         "img_url": "das.jpg",
         "desc": "面向未来的，去中心化账户系统",
@@ -203,6 +213,15 @@
           "github": "https://github.com/DeAccountSystems",
           "telegram": "https://t.me/DASystemsNews"
 
+        }
+      },
+      {
+        "name": "CSDGame",
+        "img_url": "csd.png",
+        "desc": "带有强大社交属性的NFT卡牌对决游戏",
+        "contacts": {
+          "web": "https://celebritysmackdown.gg/",
+          "twitter": "https://twitter.com/CSDGame"
         }
       },
       {
