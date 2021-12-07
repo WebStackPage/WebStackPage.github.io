@@ -370,7 +370,7 @@
       },
       {
         "name": "Polyjuice",
-        "img_url": "default.png",
+        "img_url": "polyjuice.png",
         "desc": "Polyjuice 是在 Nervos CKB 之上的一个 Ethereum 兼容层",
         "contacts": {
           "github": "https://github.com/nervosnetwork/polyjuice"
@@ -433,18 +433,11 @@
         }
       },{
         "name": "Force Bridge ETH",
-        "img_url": "default.png",
+        "img_url": "force_bridge.png",
         "desc": "跨链协议 Force Bridge ETH，让以太坊上的 dApp 和用户接入 CKB",
         "contacts": {
+          "web": "https://forcebridge.com/",
           "github": "https://github.com/nervosnetwork/force-bridge-eth"
-        }
-      },
-      {
-        "name": "Force Bridge BTC",
-        "img_url": "default.png",
-        "desc": "跨链协议 Force Bridge BTC",
-        "contacts": {
-          "github": "https://github.com/nervosnetwork/force-bridge-btc"
         }
       },
       {
@@ -806,7 +799,7 @@
       },
       {
         "name": "CKB fans",
-        "img_url": "CKBFans.jpg",
+        "img_url": "ckbfans.jpg",
         "desc": "CKB die-hard fans的集结号。",
         "contacts": {
           "web": "https://discord.com/invite/X2VGqQX6zT"

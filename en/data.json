@@ -370,7 +370,7 @@
       },
       {
         "name": "Polyjuice",
-        "img_url": "polyjuice.jpg",
+        "img_url": "polyjuice.png",
         "desc": "An Ethereum on CKB solution",
         "contacts": {
           "github": "https://github.com/nervosnetwork/polyjuice"
@@ -799,7 +799,7 @@
       },
       {
         "name": "CKB fans",
-        "img_url": "CKBFans.jpg",
+        "img_url": "ckbfans.jpg",
         "desc": "CKB die-hard fans",
         "contacts": {
           "web": "https://discord.com/invite/X2VGqQX6zT"
