@@ -35,8 +35,9 @@
         "img_url": "yokai.jpg",
         "desc": "A new decentralized exchange.",
         "contacts": {
-          "web": "https://dev.yokaiswap.com/",
-          "twitter": "https://twitter.com/yokaiswap"
+          "web": "https://www.yokaiswap.com/",
+          "twitter": "https://twitter.com/yokaiswap",
+          "github": "https://github.com/YokaiSwap"
         }
       },
       {
@@ -45,6 +46,7 @@
         "desc": "A smarter, more efficient and transparent stable coin portocol on Nervos.",
         "contacts": {
           "web": "https://nexisdao.com/",
+          "twitter": "https://twitter.com/NexisDAO",
           "github": "https://github.com/NexisDao"
         }
       },
@@ -92,22 +94,31 @@
     "index": 2,
     "lists": [
       {
+        "name": "Kollect.me",
+        "img_url": "kollect.png",
+        "desc": "NFT casting, issuance, and trading platform.",
+        "contacts": {
+          "web": "https://kollect.me/",
+          "twitter": "https://twitter.com/KollectNFT"
+        }
+      },
+      {
+        "name": "MiBao",
+        "img_url": "mibao.png",
+        "desc": "Blockchain-based one-stop platform for NFT creation and distribution.",
+        "contacts": {
+          "web": "https://mibao.net",
+          "twitter": "https://twitter.com/NervinaLabs",
+          "email": "mailto:contact@nervina.io"
+        }
+      },
+      {
         "name": "IAMM",
         "img_url": "iamm.jpg",
         "desc": "Liberating the creator economy. ",
         "contacts": {
           "web": "https://iamm.network/",
           "twitter": "https://twitter.com/IAMM_Network"
-        }
-      },
-      {
-        "name": "Golden Legend",
-        "img_url": "jinse.png",
-        "desc": "Blockchain-based one-stop platform for NFT creation and distribution.",
-        "contacts": {
-          "web": "https://jinse.nervina.cn/en",
-          "twitter": "https://twitter.com/NervinaLabs",
-          "email": "mailto:contact@nervina.io"
         }
       },
       {
@@ -127,6 +138,17 @@
     "width": 19,
     "index": 2,
     "lists": [
+      {
+        "name": "Dia",
+        "img_url": "dia.jpeg",
+        "desc": "DIA is a cross-chain, open-source data platform that allows market actors to source, supply and use transparent oracles for DeFi.",
+        "contacts": {
+          "web": "https://www.diadata.org/",
+          "twitter": "https://twitter.com/DIAdata_org",
+          "telegram": "https://t.me/DIAdata_org",
+          "github": "https://github.com/diadata-org"
+        }
+      },
       {
         "name": "ChainLink",
         "img_url": "chainlink.png",
@@ -206,7 +228,7 @@
       {
         "name": "Das",
         "img_url": "das.jpg",
-        "desc": "DAS, Decentralized Account Systems.",
+        "desc": "DAS, Cross-chain Decentralized Account Systems.",
         "contacts": {
           "web": "https://da.systems/",
           "twitter": "https://twitter.com/realDASystems",
@@ -221,6 +243,7 @@
         "desc": "A strategic nft card game.",
         "contacts": {
           "web": "https://celebritysmackdown.gg/",
+          "telegram": "https://t.me/CSDofficialchannel",
           "twitter": "https://twitter.com/CSDGame"
         }
       },
@@ -248,6 +271,15 @@
     "width": 32,
     "index": 5,
     "lists": [
+      {
+        "name": "Godwoken",
+        "img_url": "godwoken.png",
+        "desc": "Godwoken is a generic framework to build rollup solutions upon Nervos CKB.",
+        "contacts": {
+          "web": "https://www.nervos.org/godwoken",
+          "github": "https://github.com/nervosnetwork/godwoken"
+        }
+      },
       {
         "name": "Hxro",
         "img_url": "hxro.jpg",
@@ -320,6 +352,14 @@
     "index": 10,
     "lists": [
       {
+        "name": "Mercury",
+        "img_url": "default.png",
+        "desc": "Mercury is a tool that handles application development on CKB.",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/mercury"
+        }
+      },
+      {
         "name": "Mandrake",
         "img_url": "mandrake.png",
         "desc": "GUI for creating smart contracts on CKB",
@@ -330,8 +370,8 @@
       },
       {
         "name": "Polyjuice",
-        "img_url": "default.png",
-        "desc": "an Ethereum on CKB solution",
+        "img_url": "polyjuice.jpg",
+        "desc": "An Ethereum on CKB solution",
         "contacts": {
           "github": "https://github.com/nervosnetwork/polyjuice"
         }
@@ -393,18 +433,11 @@
         }
       },      {
         "name": "Force Bridge ETH",
-        "img_url": "default.png",
+        "img_url": "force_bridge.png",
         "desc": "Force bridge is a bridge which connects CKB with other blockchain systems( aka cross-chain protocol ).",
         "contacts": {
+          "web": "https://forcebridge.com/",
           "github": "https://github.com/nervosnetwork/force-bridge-eth"
-        }
-      },
-      {
-        "name": "Force Bridge BTC",
-        "img_url": "default.png",
-        "desc": "The BTC component of force bridge, maps BTC on Bitcoin to cBTC on CKB in a trustless way.",
-        "contacts": {
-          "github": "https://github.com/nervosnetwork/force-bridge-btc"
         }
       },
       {
@@ -433,6 +466,15 @@
     "index": 15,
     "lists": [
       {
+        "name": "SafePal",
+        "img_url": "safepal.png",
+        "desc": "1st Tokenized Crypto Hardware Wallet Backed by Binance SFP Token",
+        "contacts": {
+          "web": "https://safepal.io/",
+          "twitter": "https://twitter.com/iSafePal"
+        }
+      },
+      {
         "name": "PORTAL WALLET",
         "img_url": "portal.png",
         "desc": "The Portal from the Internet to Crypto World",
@@ -452,6 +494,17 @@
           "twitter": "https://twitter.com/imTokenOfficial",
           "telegram": "https://t.me/imTokenGroup",
           "job": "https://token.im/careers"
+        }
+      },
+      {
+        "name": "BitKeep",
+        "img_url": "bitkeep.jpeg",
+        "desc": "Blockchain Lifestyle at Your Fingertips.",
+        "contacts": {
+          "web": "https://bitkeep.org/",
+          "twitter": "https://twitter.com/BitKeepOS",
+          "telegram": "https://t.me/bitkeep",
+          "github": "https://github.com/bitkeepcom"
         }
       },
       {
@@ -688,6 +741,37 @@
           "github": "https://github.com/gitcoinco/",
           "email": "mailto:support@gitcoin.co"
         }
+      },
+      {
+        "name": "Gambit",
+        "img_url": "gamebit.png",
+        "desc": "Gambit is one of the leading clubs in Europe.",
+        "contacts": {
+          "web": "https://gambit.gg/",
+          "twitter": "https://twitter.com/gambitesports"
+        }
+      },
+      {
+        "name": "SuperLauncher",
+        "img_url": "SuperLauncher.jpeg",
+        "desc": "The Future of Distributed Capital",
+        "contacts": {
+          "web": "https://superlauncher.io/",
+          "twitter": "https://twitter.com/Super_Launcher",
+          "telegram": "https://t.me/superlauncher",
+          "github": "https://github.com/SuperLauncher/SmartContracts"
+        }
+      },
+      {
+        "name": "Mycrypto",
+        "img_url": "Mycrypto.png",
+        "desc": "MyCrypto makes managing your crypto easy. Create wallets, manage your assets, and more. Supports ETH + ERC20 tokens.",
+        "contacts": {
+          "web": "https://mycrypto.com/",
+          "twitter": "https://twitter.com/mycrypto",
+          "telegram": "https://t.me/mycryptohq",
+          "github": "https://github.com/MyCryptoHQ"
+        }
       }
 
     ]
@@ -707,18 +791,18 @@
       },
       {
         "name": "Nervos Community",
-        "img_url": "community.JPG",
+        "img_url": "nervos_community.jpg",
         "desc": "Nervos Community",
         "contacts": {
-          "web": "http://mp.weixin.qq.com/profile?src=3&timestamp=1607596138&ver=1&signature=OwN4CWZZ7EKRMOvY9h6yedqBhVGWegXdZOjpJB36kkogzvebxrINgzTfKWRy-RSUKXBU-Wg8QSp1VLdiO-NSfg=="
+          "web": "https://docs.ckb.dev/"
         }
       },
       {
         "name": "CKB fans",
-        "img_url": "ckbfans.JPG",
+        "img_url": "CKBFans.jpg",
         "desc": "CKB die-hard fans",
         "contacts": {
-          "web": "http://mp.weixin.qq.com/profile?src=3&timestamp=1607596114&ver=1&signature=46XkqafAyvwHT3wDku3KPshFLkhqybJaydpxvj*OAiUVczNA8DcGrVY5*CUoKKgsLJqGt92aR-fHChiWqwgCfQ=="
+          "web": "https://discord.com/invite/X2VGqQX6zT"
         }
       },
       {
@@ -727,6 +811,15 @@
         "desc": "This podcast focuses on what is happening in the Nervos CKB blockchain community. Founded by Jonathan Caras and Michael Hasson, partners at Lionschain Capital.",
         "contacts": {
           "web": "https://www.stitcher.com/show/nervos-nation"
+        }
+      },
+      {
+        "name": "CKBMeta",
+        "img_url": "ckbmata.jpg",
+        "desc": "CKByte.",
+        "contacts": {
+          "twitter": "https://twitter.com/CKBMeta",
+          "telegram": "https://t.co/CZGcngOr3h"
         }
       }
     ]

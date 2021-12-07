@@ -35,8 +35,9 @@
         "img_url": "yokai.jpg",
         "desc": "一个全新的去中心化交易所.",
         "contacts": {
-          "web": "https://dev.yokaiswap.com/",
-          "twitter": "https://twitter.com/yokaiswap"
+          "web": "https://www.yokaiswap.com/",
+          "twitter": "https://twitter.com/yokaiswap",
+          "github": "https://github.com/YokaiSwap"
         }
       },
       {
@@ -45,6 +46,7 @@
         "desc": "Nervos 上更智能更高效更透明的稳定币协议.",
         "contacts": {
           "web": "https://nexisdao.com/",
+          "twitter": "https://twitter.com/NexisDAO",
           "github": "https://github.com/NexisDao"
         }
       },
@@ -92,22 +94,31 @@
     "index": 2,
     "lists": [
       {
+        "name": "Kollect.me",
+        "img_url": "kollect.png",
+        "desc": "NFT 铸造、发行、交易平台",
+        "contacts": {
+          "web": "https://kollect.me/",
+          "twitter": "https://twitter.com/KollectNFT"
+        }
+      },
+      {
+        "name": "秘宝",
+        "img_url": "mibao.png",
+        "desc": "基于区块链的秘宝创作和发行一站式平台.",
+        "contacts": {
+          "web": "https://mibao.net",
+          "twitter": "https://twitter.com/NervinaLabs",
+          "email": "mailto:contact@nervina.io"
+        }
+      },
+      {
         "name": "IAMM",
         "img_url": "iamm.jpg",
         "desc": "IAMM 协议致力于让去中心化的数字商品成为网络的原生要素。",
         "contacts": {
           "web": "https://iamm.network/",
           "twitter": "https://twitter.com/IAMM_Network"
-        }
-      },
-      {
-        "name": "金色传说",
-        "img_url": "jinse.png",
-        "desc": "基于区块链的秘宝创作和发行一站式平台.",
-        "contacts": {
-          "web": "https://jinse.nervina.cn",
-          "twitter": "https://twitter.com/NervinaLabs",
-          "email": "mailto:contact@nervina.io"
         }
       },
       {
@@ -127,6 +138,17 @@
     "width": 19,
     "index": 2,
     "lists": [
+      {
+        "name": "Dia",
+        "img_url": "dia.jpeg",
+        "desc": "开源的预言机平台，旨在让市场参与者能够获取、供应和共享可靠的数据",
+        "contacts": {
+          "web": "https://www.diadata.org/",
+          "twitter": "https://twitter.com/DIAdata_org",
+          "telegram": "https://t.me/DIAdata_org",
+          "github": "https://github.com/diadata-org"
+        }
+      },
       {
         "name": "ChainLink",
         "img_url": "chainlink.png",
@@ -206,7 +228,7 @@
       {
         "name": "Das",
         "img_url": "das.jpg",
-        "desc": "面向未来的，去中心化账户系统",
+        "desc": "面向未来的，跨链去中心化账户系统",
         "contacts": {
           "web": "https://da.systems/",
           "twitter": "https://twitter.com/realDASystems",
@@ -221,6 +243,7 @@
         "desc": "带有强大社交属性的NFT卡牌对决游戏",
         "contacts": {
           "web": "https://celebritysmackdown.gg/",
+          "telegram": "https://t.me/CSDofficialchannel",
           "twitter": "https://twitter.com/CSDGame"
         }
       },
@@ -248,6 +271,15 @@
     "width": 32,
     "index": 5,
     "lists": [
+      {
+        "name": "Godwoken",
+        "img_url": "godwoken.png",
+        "desc": "Nervos Rollup Layer2 解决方案",
+        "contacts": {
+          "web": "https://www.nervos.org/godwoken",
+          "github": "https://github.com/nervosnetwork/godwoken"
+        }
+      },
       {
         "name": "Hxro",
         "img_url": "hxro.jpg",
@@ -319,6 +351,14 @@
     "width": 46,
     "index": 10,
     "lists": [
+      {
+        "name": "Mercury",
+        "img_url": "default.png",
+        "desc": "提供方便开发者使用的接口，统一地址",
+        "contacts": {
+          "github": "https://github.com/nervosnetwork/mercury"
+        }
+      },
       {
         "name": "Mandrake",
         "img_url": "mandrake.png",
@@ -433,6 +473,15 @@
     "index": 15,
     "lists": [
       {
+        "name": "SafePal",
+        "img_url": "safepal.png",
+        "desc": "币安投资和支持的第一个硬件钱包",
+        "contacts": {
+          "web": "https://safepal.io/",
+          "twitter": "https://twitter.com/iSafePal"
+        }
+      },
+      {
         "name": "PORTAL WALLET",
         "img_url": "portal.png",
         "desc": "CKB 连接世界的入口",
@@ -452,6 +501,17 @@
           "twitter": "https://twitter.com/imTokenOfficial",
           "telegram": "https://t.me/imTokenGroup",
           "job": "https://token.im/careers"
+        }
+      },
+      {
+        "name": "BitKeep",
+        "img_url": "bitkeep.jpeg",
+        "desc": "专注于DeFi的多链钱包",
+        "contacts": {
+          "web": "https://bitkeep.org/",
+          "twitter": "https://twitter.com/BitKeepOS",
+          "telegram": "https://t.me/bitkeep",
+          "github": "https://github.com/bitkeepcom"
         }
       },
       {
@@ -689,6 +749,37 @@
           "github": "https://github.com/gitcoinco/",
           "email": "mailto:support@gitcoin.co"
         }
+      },
+      {
+        "name": "Gambit",
+        "img_url": "gamebit.png",
+        "desc": "Gambit 是欧洲领先的俱乐部之一",
+        "contacts": {
+          "web": "https://gambit.gg/",
+          "twitter": "https://twitter.com/gambitesports"
+        }
+      },
+      {
+        "name": "SuperLauncher",
+        "img_url": "SuperLauncher.jpeg",
+        "desc": "未来的融资平台",
+        "contacts": {
+          "web": "https://superlauncher.io/",
+          "twitter": "https://twitter.com/Super_Launcher",
+          "telegram": "https://t.me/superlauncher",
+          "github": "https://github.com/SuperLauncher/SmartContracts"
+        }
+      },
+      {
+        "name": "Mycrypto",
+        "img_url": "Mycrypto.png",
+        "desc": "以太坊钱包，ForceBridge 运营商",
+        "contacts": {
+          "web": "https://mycrypto.com/",
+          "twitter": "https://twitter.com/mycrypto",
+          "telegram": "https://t.me/mycryptohq",
+          "github": "https://github.com/MyCryptoHQ"
+        }
       }
     ]
   },
@@ -707,18 +798,18 @@
       },
       {
         "name": "Nervos Community",
-        "img_url": "community.JPG",
+        "img_url": "nervos_community.jpg",
         "desc": "这里是Nervos Community，一切为了更好的Nervos，更好的世界。",
         "contacts": {
-          "web": "http://mp.weixin.qq.com/profile?src=3&timestamp=1607596138&ver=1&signature=OwN4CWZZ7EKRMOvY9h6yedqBhVGWegXdZOjpJB36kkogzvebxrINgzTfKWRy-RSUKXBU-Wg8QSp1VLdiO-NSfg=="
+          "web": "https://docs.ckb.dev/"
         }
       },
       {
         "name": "CKB fans",
-        "img_url": "ckbfans.JPG",
+        "img_url": "CKBFans.jpg",
         "desc": "CKB die-hard fans的集结号。",
         "contacts": {
-          "web": "http://mp.weixin.qq.com/profile?src=3&timestamp=1607596114&ver=1&signature=46XkqafAyvwHT3wDku3KPshFLkhqybJaydpxvj*OAiUVczNA8DcGrVY5*CUoKKgsLJqGt92aR-fHChiWqwgCfQ=="
+          "web": "https://discord.com/invite/X2VGqQX6zT"
         }
       },
       {
@@ -727,6 +818,15 @@
         "desc": "Nervos CKB播客，由Lionschain Capital的合伙人Jonathan Caras和Michael Hasson创立。",
         "contacts": {
           "web": "https://www.stitcher.com/show/nervos-nation"
+        }
+      },
+      {
+        "name": "CKBMeta",
+        "img_url": "ckbmata.jpg",
+        "desc": "字节元宇宙",
+        "contacts": {
+          "twitter": "https://twitter.com/CKBMeta",
+          "telegram": "https://t.co/CZGcngOr3h"
         }
       }
     ]
