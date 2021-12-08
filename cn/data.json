@@ -70,7 +70,7 @@
         }
       },
       {
-        "name": "Gliaswap",
+        "name": "Gliaswap(Demo)",
         "img_url": "gliaswap.png",
         "desc": "Gilaswap 是一个建立在 Nervos 的 Layer 2 上的示范性项目，展示了 Nervos 生态和互操作性 2.0 巨大的潜力。",
         "contacts": {

@@ -70,7 +70,7 @@
         }
       },
       {
-        "name": "Gliaswap",
+        "name": "Gliaswap(Demo)",
         "img_url": "gliaswap.png",
         "desc": "A cross-chain decentralized exchange developed by Nervos team.",
         "contacts": {
