@@ -113,6 +113,15 @@
         }
       },
       {
+        "name": "Kami",
+        "img_url": "shen.jpg",
+        "desc": "Project Kami is an immersive NFT collection hosted on the Nervos Blockchain.",
+        "contacts": {
+          "web": "https://www.projectkami.io/",
+          "twitter": "https://twitter.com/ProjectKami_NFT"
+        }
+      },
+      {
         "name": "IAMM",
         "img_url": "iamm.jpg",
         "desc": "Liberating the creator economy. ",

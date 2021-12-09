@@ -113,6 +113,15 @@
         }
       },
       {
+        "name": "Kami",
+        "img_url": "shen.jpg",
+        "desc": "Nervos 上沉浸式 NFT 集合.",
+        "contacts": {
+          "web": "https://www.projectkami.io/",
+          "twitter": "https://twitter.com/ProjectKami_NFT"
+        }
+      },
+      {
         "name": "IAMM",
         "img_url": "iamm.jpg",
         "desc": "IAMM 协议致力于让去中心化的数字商品成为网络的原生要素。",
