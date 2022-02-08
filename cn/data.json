@@ -41,6 +41,42 @@
         }
       },
       {
+        "name": "DarumaDAO",
+        "img_url": "daruma.jpg",
+        "desc": "第一个基于 Nervos 区块链的去中心化储备货币协议.",
+        "contacts": {
+          "web": "https://www.daruma.money/",
+          "twitter": "https://twitter.com/Daruma_DAO"
+        }
+      },
+      {
+        "name": "LambdaDAO",
+        "img_url": "lambda.jpg",
+        "desc": "去中心化储备货币协议.",
+        "contacts": {
+          "web": "https://www.lambdadao.finance/",
+          "twitter": "https://twitter.com/DaoLambda",
+          "telegram": "https://t.me/lambdaprotocol"
+        }
+      },
+      {
+        "name": "StableKoi",
+        "img_url": "stablekoi.jpg",
+        "desc": "跨链稳定币交易.",
+        "contacts": {
+          "twitter": "https://twitter.com/stablekoi"
+        }
+      },
+      {
+        "name": "Hadouken Finance",
+        "img_url": "hadouken.jpg",
+        "desc": "一个全新的去中心化交易所.",
+        "contacts": {
+          "web": "https://hadouken.finance/",
+          "twitter": "https://twitter.com/HadoukenFinance"
+        }
+      },
+      {
         "name": "NexisDAO",
         "img_url": "nexisdao.ico",
         "desc": "Nervos 上更智能更高效更透明的稳定币协议.",
@@ -119,6 +155,15 @@
         "contacts": {
           "web": "https://www.projectkami.io/",
           "twitter": "https://twitter.com/ProjectKami_NFT"
+        }
+      },
+      {
+        "name": "HuntingNFT",
+        "img_url": "huntingnft.jpg",
+        "desc": "基于Nervos Blockchain的NFT收藏游戏.",
+        "contacts": {
+          "web": "https://app.huntingnft.cc/",
+          "twitter": "https://twitter.com/HuntingnftTeam"
         }
       },
       {

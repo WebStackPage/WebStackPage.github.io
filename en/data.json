@@ -41,6 +41,42 @@
         }
       },
       {
+        "name": "DarumaDAO",
+        "img_url": "daruma.jpg",
+        "desc": "The first decentralized reserve currency protocol built on the Nervos blockchain.",
+        "contacts": {
+          "web": "https://www.daruma.money/",
+          "twitter": "https://twitter.com/Daruma_DAO"
+        }
+      },
+      {
+        "name": "LambdaDAO",
+        "img_url": "lambda.jpg",
+        "desc": "The First decentralized, treasury-backed, reserve currency protocol running on the Nervos Network.",
+        "contacts": {
+          "web": "https://www.lambdadao.finance/",
+          "twitter": "https://twitter.com/DaoLambda",
+          "telegram": "https://t.me/lambdaprotocol"
+        }
+      },
+      {
+        "name": "StableKoi",
+        "img_url": "stablekoi.jpg",
+        "desc": "The most liquid cross-chain stableswap for NervosNetwork.",
+        "contacts": {
+          "twitter": "https://twitter.com/stablekoi"
+        }
+      },
+      {
+        "name": "Hadouken Finance",
+        "img_url": "hadouken.jpg",
+        "desc": "A new decentralized exchange on NervosNetwork.",
+        "contacts": {
+          "web": "https://hadouken.finance/",
+          "twitter": "https://twitter.com/HadoukenFinance"
+        }
+      },
+      {
         "name": "NexisDAO",
         "img_url": "nexisdao.ico",
         "desc": "A smarter, more efficient and transparent stable coin portocol on Nervos.",
@@ -119,6 +155,15 @@
         "contacts": {
           "web": "https://www.projectkami.io/",
           "twitter": "https://twitter.com/ProjectKami_NFT"
+        }
+      },
+      {
+        "name": "HuntingNFT",
+        "img_url": "huntingnft.jpg",
+        "desc": "HuntingNFT is a metaverse NFT collection game based on Nervos Blockchain.",
+        "contacts": {
+          "web": "https://app.huntingnft.cc/",
+          "twitter": "https://twitter.com/HuntingnftTeam"
         }
       },
       {
