@@ -1,5 +1,6 @@
-###
-声明："一导航"未经允许推出的“Webstack Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“Webstack Pro”相关名称，在这里郑重声明。
+声明
+---
+"一导航"未经允许推出的“Webstack Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“Webstack Pro”相关名称，在这里郑重声明。
 目前 Webstack 已经有数十种完全免费开源后端版本，数十位共建者在维护本项目，本项目尊重各位共建者劳动成果实现盈利，但不鼓励任何盗用 **WebstackPro** 名义盈利的行为。
 
 ![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
@@ -31,51 +32,51 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 你可以像我一样直接使用静态托管形式，如果你需要一个后台系统方便管理，可以参考下面的第二第三种解决方案：
 #### 方法1. 使用静态托管
 最简单快速上线自己的导航网站，你可以直接**下载**本项目修改内容既可部署上线。
----
+
 #### 方法2. 使用 Wordpress 主题搭建系统🔥(感谢[@owen0o0](https://github.com/hui-ho)提供)
 开源地址：[https://github.com/hui-ho/WebStack-Laravel](https://github.com/owen0o0/WebStack)
 
 **注意：付费版本和本项目没人和关系，售后问题请找作者** 
----
+
 #### 方法3. 使用基于 Laravel 搭建的后台系统🔥(感谢[@hui-ho]
----
+
 #### 方法4. Hexo主题  
 开源地址： https://github.com/HCLonely/hexo-theme-webstack
----
+
 #### 方法5. Hugo主题  
 开源地址： https://github.com/iplaycode/webstack-hugo
 主题演示： https://iplaycode.github.io/nav/
----
+
 #### 方法6. 基于Java开发的后台系统🔥(感谢[@jsnjfz](https://github.com/jsnjfz)提供)
 开源地址：https://github.com/jsnjfz/WebStack-Guns
----
+
 #### 方法7. springboot后台 Nikati-WebStack-Guns ❤️ (感谢[Nikati \(Nikati\)](https://github.com/Nikati)提供)
 开源地址：https://github.com/Nikati/WebStack-Guns-NKT
----
+
 #### 方法8.1 使用 Jekyll 版本的后台🔥(感谢[@0xl2oot](https://github.com/0xl2oot)提供)
 开源地址：[https://github.com/0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)
 
 #### 方法8.2 从Chrome书签生成Jekyll版本配置的工具
 体验网址： https://w.hanxi.info/convert.html
 开源地址： https://github.com/hanxi/webstack-jekyll
----
+
 #### 方法9.1 钻芒二开Typecho主题
 开源地址：https://www.zmki.cn/5366.html
 比较详细的安装教程：https://www.waoww.com/typecho-theme/zmki-webstack.html
 预览地址：https://tool.zmki.cn/
 #### 方法9.2 SEOGO二开Typecho主题
 开源地址：[https://www.seogo.me/muban/webstack.html](https://www.seogo.me/muban/webstack.html)
----
+
 #### 方法10. 静态博客Gridea主题 
 开源地址: https://github.com/lmm214/gridea-theme-webstack
 在线预览: https://edui.fun/
----
+
 #### 方法11. VUE版本
 开源地址: https://github.com/Anjaxs/WebStack-vue/tree/master
----
+
 #### 方法12. flask-blog-platform
 开源地址: https://github.com/shitianfang/flask-blog-platform/tree/master
----
+
 #### 方法13. 自己写后台系统
 可以按照自己的喜好和框架搭建后台系统，也可以参考我设计好的后台框架自行搭建。本站设计开发过程在我的博客文章有详细讲到[《webstack \| viggo》](http://blog.viggoz.com/2018/01/03/2018-01-03-webstack/)。静态源码（半成品）：[https://github.com/WebStackPage/webstack-Admin](https://github.com/WebStackPage/webstack-Admin)
 
