@@ -1,4 +1,6 @@
 ###
+声明："一导航"未经允许推出的“Webstack pro”版本付费导航主题，跟本项目没有任何关系，售后问题不要在此项目中提[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除“Webstack Pro”相关名称，在这里郑重声明。
+
 ![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
 ===
 Webstack网址导航
@@ -19,9 +21,9 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 欢迎加群一起学习交流技术
 ---
-|QQ交流群(304584722)|QQ交流群2(740911918)|
-|--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
+|QQ交流群(304584722)|QQ交流群2(740911918)|支持项目|
+|--|--|--|
+|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/coffee.png)|
 
 怎么用?
 ---
