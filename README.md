@@ -45,6 +45,7 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 #### 方法5.1 Hugo主题一🔥
 开源地址：https://github.com/shenweiyan/WebStack-Hugo
+
 安装说明：https://www.yuque.com/shenweiyan/cookbook/webstack-hugo
 
 #### 方法5.2 Hugo主题二
