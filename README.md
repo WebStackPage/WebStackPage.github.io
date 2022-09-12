@@ -34,7 +34,7 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 最简单快速上线自己的导航网站，你可以直接**下载**本项目修改内容既可部署上线。
 
 #### 方法2. 使用 Wordpress 主题搭建系统🔥(感谢[@owen0o0](https://github.com/hui-ho)提供)
-开源地址：[https://github.com/owen0o0/WebStack]
+开源地址：https://github.com/owen0o0/WebStack
 
 **注意：付费版本和本项目没任何关系，售后问题请找作者** 
 
