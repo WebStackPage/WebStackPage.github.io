@@ -38,7 +38,10 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 **注意：付费版本和本项目没任何关系，售后问题请找作者** 
 
-#### 方法3. 使用基于 Laravel 搭建的后台系统🔥(感谢[@hui-ho]
+#### 方法3. 使用基于 Laravel 搭建的后台系统🔥(感谢[@hui-ho](https://github.com/hui-ho)提供)
+开源地址：https://github.com/hui-ho/WebStack-Laravel
+
+Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
 
 #### 方法4. Hexo主题  
 开源地址： https://github.com/HCLonely/hexo-theme-webstack
