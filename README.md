@@ -19,14 +19,6 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 "一导航"未经允许推出的“Webstack Pro 版本”付费导航主题，跟本项目没有任何关系，在此解答[类似 Issues](https://github.com/WebStackPage/WebStackPage.github.io/issues/89)，已经和该公司多次沟通，该公司始终没有移除所有“Webstack Pro”相关名称，在这里郑重声明。
 目前 Webstack 已经有数十种完全免费开源后端版本，数十位共建者在维护本项目，本项目尊重各位共建者劳动成果实现盈利，但不鼓励任何盗用 **WebstackPro** 名义盈利的行为。
 
-![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/webstack_no_pro.png)
-
-欢迎加群一起学习交流技术
----
-|Q群(304584722)|Q群2(740911918)|赞赏支持本项目|
-|--|--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/coffee.png)|
-
 怎么用?
 ---
 你可以像我一样直接使用静态托管形式，如果你需要一个后台系统方便管理，可以参考下面的第二第三种解决方案：
