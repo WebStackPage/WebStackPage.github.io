@@ -23,9 +23,9 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 欢迎加群一起学习交流技术
 ---
-|Q群(304584722)|Q群2(740911918)|赞赏支持本项目|
-|--|--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|![](https://github.com/WebStackPage/WebStackPage.github.io/blob/master/assets/images/coffee.png)|
+|Q群(304584722)|Q群2(740911918)|
+|--|--|
+|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
 
 怎么用?
 ---
@@ -177,7 +177,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | 浮生论坛 \- 念念不忘，必有回响 | [浮生论坛 \- 念念不忘，必有回响](https://fusfun.club/cn/index.html) |
 ## License
 
-Copyright © 2017-2018 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
+Copyright © 2017-2023 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
 
 > 注：本站开源的目的是大家能够在本站的基础之上有所启发，做出更多新的东西。并不是让大家照搬所有代码。
 > 如果你使用这个开源项目，请**注明**本项目开源地址。
