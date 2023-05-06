@@ -119,11 +119,11 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | 状态 | 网站名 | 网址 |
 | --- | --- | --- |
 
-| ✅已上线 | 谢週五の导航站 | [谢週五の导航站 \- 5nav\.ml](https://5nav.ml/) |
+| ✅已上线 | 谢週五の导航站 | [谢週五の导航站 - 5nav.ml](https://5nav.ml/) |
 | ✅已上线 | 狼牌工作网址导航 | [https://www.volf.club/](https://www.volf.club/) |
 | ✅已上线 | 广告人导航 - 广告没门 | [https://adnodoor.com/nav/](https://adnodoor.com/nav/) |
-| ✅已上线 | 互联网资源库房 | [库房369\-互联网资源库房 \-](https://kf369.cn/) |
-| ✅已上线 | 聚BT - 聚合最优质的BT、磁力资源 | [聚BT \- 聚合最优质的BT、磁力资源](https://www.jubt.net/cn/index.html) |
+| ✅已上线 | 互联网资源库房 | [库房369-互联网资源库房](https://kf369.cn/) |
+| ✅已上线 | 聚BT - 聚合最优质的BT、磁力资源 | [聚BT - 聚合最优质的BT、磁力资源](https://www.jubt.net/cn/index.html) |
 | ✅已上线 | ShareHub - 资源和工具的集合 | [https://www.gezhipu.com/cn/index.html](https://www.gezhipu.com/cn/index.html) |
 | ✅已上线 | 程序员网址导航 - hujiangtao | [https://web.hujiangtao.cn/](https://web.hujiangtao.cn/) |
 
