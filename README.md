@@ -118,22 +118,17 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 
 | 状态 | 网站名 | 网址 |
 | --- | --- | --- |
-
 | ✅已上线 | 谢週五の导航站 | [谢週五の导航站 - 5nav.ml](https://5nav.ml/) |
 | ✅已上线 | 狼牌工作网址导航 | [https://www.volf.club/](https://www.volf.club/) |
 | ✅已上线 | 广告人导航 - 广告没门 | [https://adnodoor.com/nav/](https://adnodoor.com/nav/) |
 | ✅已上线 | 互联网资源库房 | [库房369-互联网资源库房](https://kf369.cn/) |
 | ✅已上线 | 聚BT - 聚合最优质的BT、磁力资源 | [聚BT - 聚合最优质的BT、磁力资源](https://www.jubt.net/cn/index.html) |
 | ✅已上线 | ShareHub - 资源和工具的集合 | [https://www.gezhipu.com/cn/index.html](https://www.gezhipu.com/cn/index.html) |
-| ✅已上线 | 程序员网址导航 - hujiangtao | [https://web.hujiangtao.cn/](https://web.hujiangtao.cn/) |
-
-
-| 状态 | 网站名 | 网址 |
-| --- | --- | --- |
+| ✅已上线 | 程序员网址导航 | [https://web.hujiangtao.cn/](https://web.hujiangtao.cn/) |
 | 🕗开发中 | PMGEEK | [http://pmgeek.net/](http://pmgeek.net/) |
 | ❌已下线 | 造作家 | [造作家](https://www.hitsz.top/) |
 | ❌已下线 | 码灵导航 - 一个帮助开发者成长的程序员网址导航 | [https://nav.imaring.com/](https://nav.imaring.com/) |
-| ❌已下线 | 币门 | [币门 | 通向加密货币之门](https://www.bimen.com/) |
+| ❌已下线 | 币门 | [币门 通向加密货币之门](https://www.bimen.com/) |
 | ❌已下线 | Azt's 导航网站 | [Azt's 导航网站](https://bookmark.cwenyu.net/) |
 | ❌已下线 | moshuxv | [moshuxv.xyz](https://moshuxv.xyz/) |
 | ❌已下线 | 高效搜罗 - 精准的职业导航 | [http://gaoxiaosouluo.cn/](http://gaoxiaosouluo.cn/) |
