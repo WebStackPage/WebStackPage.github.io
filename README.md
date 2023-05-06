@@ -91,7 +91,10 @@ Docker部署版本:https://hub.docker.com/r/arvon2014/webstack-laravel
 #### 方法12. flask-blog-platform
 开源地址: https://github.com/shitianfang/flask-blog-platform/tree/master
 
-#### 方法13. 自己写后台系统
+#### 方法13. 基于 Golang 开发的后台系统🔥 Webstack-Go (感谢[@ch3nnn](https://github.com/ch3nnn)提供)
+开源地址: https://github.com/ch3nnn/webstack-go
+
+#### 方法14. 自己写后台系统
 可以按照自己的喜好和框架搭建后台系统，也可以参考我设计好的后台框架自行搭建。本站设计开发过程在我的博客文章有详细讲到[《webstack \| viggo》](http://blog.viggoz.com/2018/01/03/2018-01-03-webstack/)。静态源码（半成品）：[https://github.com/WebStackPage/webstack-Admin](https://github.com/WebStackPage/webstack-Admin)
 
 如果你有更好的解决方案，并且能够开源供大家使用，可以在本项目提Issus，或者直接通过我个人网站中的联系方式联系我。
