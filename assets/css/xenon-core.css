@@ -1219,7 +1219,6 @@ body {
     }
     .sidebar-menu.collapsed .sidebar-menu-inner {
         overflow: visible;
-        position: relative
     }
     .sidebar-menu.collapsed .logo-env {
         padding: 18px 0
